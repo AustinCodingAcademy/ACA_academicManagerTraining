@@ -18,4 +18,4 @@
 ### Contributing
 1. Make sure to stop and re-serve the book to make sure it builds
 1. Make all changes in a branch and push up
-1. Make a PR against `master` and assign it to @kevincolten and/or @CLofton
+1. Make a PR against `master` and assign it to @hipperger
