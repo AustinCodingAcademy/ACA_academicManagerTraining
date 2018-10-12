@@ -66,4 +66,6 @@ Include an article on the topic, a deep dive youTube video, a link to the w3scho
 
 [CodePen](https://codepen.io/)
 
+##Go to [Week 1 Day 2 Classwork >](02DayClass.md)
+
 {% include "../includes/footer.md" %}

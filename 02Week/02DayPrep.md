@@ -31,8 +31,7 @@ Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
 
 ### Reading 
 <!-- Give them our writting of the subject then link to a few articles: Medium, Wikipedia, CSS-Tricks, W3S, MozillaDev, etc... that help give more perspective on the subject  -->
-Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
-Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
+Include an article on the topic, a deep dive youTube video, a link to the w3schools/MDN, codePen, & real world websites using the feature. 
 
 ### See It
 <!-- Can be a video on youTube as long as it doesn't go to another code school. Eventually all video content should come from ACA. -->
@@ -53,8 +52,7 @@ Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
 
 ### Reading 
 <!-- Give them our writting of the subject then link to a few articles: Medium, Wikipedia, CSS-Tricks, W3S, MozillaDev, etc... that help give more perspective on the subject  -->
-Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
-Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
+Include an article on the topic, a deep dive youTube video, a link to the w3schools/MDN, codePen, & real world websites using the feature. 
 
 ### See It
 <!-- Can be a video on youTube as long as it doesn't go to another code school. Eventually all video content should come from ACA. -->
@@ -67,5 +65,7 @@ Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
 ** In this code pen you will do x, y, z **
 
 [CodePen](https://codepen.io/)
+
+##Go to [Week 2 Day 2 Classwork >](02DayClass.md)
 
 {% include "../includes/footer.md" %}

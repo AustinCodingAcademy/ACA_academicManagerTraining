@@ -2,7 +2,7 @@
 
 # First Step
 
-## Subject 1
+## Subject 4
 <!-- This is how each subject should be introduced. Give the students structure so they know they can start trusting the process sooner!  -->
 Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
 Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
@@ -22,5 +22,7 @@ Include an article on the topic, a deep dive youTube video, a link to the w3scho
 ** In this code pen you will do x, y, z **
 
 [CodePen](https://codepen.io/)
+
+##Go to [Day 1 Pre-Homework >](../01Week/01DayPrep.md)
 
 {% include "../includes/footer.md" %}
