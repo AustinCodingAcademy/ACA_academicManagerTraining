@@ -23,4 +23,6 @@ Include an article on the topic, a deep dive youTube video, a link to the w3scho
 
 [CodePen](https://codepen.io/)
 
+##Go to [Post-Classwork Subject 2>](02Post.md)
+
 {% include "../includes/footer.md" %}

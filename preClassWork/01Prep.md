@@ -23,4 +23,6 @@ Include an article on the topic, a deep dive youTube video, a link to the w3scho
 
 [CodePen](https://codepen.io/)
 
+##Go to [Pre-Work Step 2 >](02Prep.md)
+
 {% include "../includes/footer.md" %}

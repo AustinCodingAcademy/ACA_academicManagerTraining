@@ -37,4 +37,6 @@ Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
 <!-- Link to a challenge to use the same skill but in a different project that doesn't have step-by-step instructions. This is for the more advanced students and for students to continue practicing btw, during and after sessions.  -->
 It would be good to include a stretch exercise (differentiated teaching) for each class.
 
+##Go to [Week 6 Day 1 Pre-Homework >](../06Week/01DayPrep.md)
+
 {% include "../includes/footer.md" %}
