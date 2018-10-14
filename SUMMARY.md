@@ -6,6 +6,8 @@
     * [Step 2](preClassWork/02Prep.md)
     * [Step 3](preClassWork/03Prep.md)
     * [Step 4](preClassWork/04Prep.md)
+    * [Step 5](preClassWork/05Prep.md)
+    * [Step 6](preClassWork/06Prep.md)
 * Week 1
     * [Day 1 Pre-Homework - Title](01Week/01DayPrep.md)
     * [Day 1 Classwork - Title](01Week/01DayClass.md)
