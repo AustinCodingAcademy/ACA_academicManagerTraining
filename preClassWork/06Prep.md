@@ -1,6 +1,6 @@
 {% include "../includes/header.md" %}
 
-# Step 4 - 
+# Step 6 - 
 <!-- This is how each subject should be introduced. Give the students structure so they know they can start trusting the process sooner!  -->
 Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
 Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
@@ -21,6 +21,6 @@ Include an article on the topic, a deep dive youTube video, a link to the w3scho
 
 [CodePen](https://codepen.io/)
 
-##Go to [Pre-Work Step 5 >](05Prep.md)
+##Go to [Day 1 Pre-Homework >](../01Week/01DayPrep.md)
 
 {% include "../includes/footer.md" %}
