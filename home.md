@@ -3,22 +3,25 @@
 # Welcome Home
 
 ## Lectures
+<!-- As you build out lectures in either powerpoint or recordings, make them a link here -->
 1. Lesson 1
 2. Lesson 2
 3. Lesson 3
 ...etc
 
 ## Projects
+<!-- This should be a quick place for students to jump to projects. Just a link to the class day file will be good. -->
 1. Lesson 1
 2. Lesson 2
 3. Lesson 3
 ...etc
 
 ##Checkpoints
-1. Lesson 1
-2. Lesson 2
-3. Lesson 3
-...etc
+<!-- A place for them to get to the checkpoints quickly-->
+1. [Checkpoint 1](checkPoints/01checkPoint.md)
+2. [Checkpoint 2](checkPoints/02checkPoint.md)
+3. [Checkpoint 3](checkPoints/03checkPoint.md)
+
 
 ## Git Commands
 
