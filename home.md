@@ -11,10 +11,23 @@
 
 ## Projects
 <!-- This should be a quick place for students to jump to projects. Just a link to the class day file will be good. -->
-1. Lesson 1
-2. Lesson 2
-3. Lesson 3
-...etc
+1. [Project 1](01Week/01DayClass.md)
+2. [Project 2](01Week/02DayClass.md)
+3. [Project 3](02Week/01DayClass.md)
+4. [Project 4](02Week/02DayClass.md)
+5. [Project 5](03Week/01DayClass.md)
+6. [Project 6](03Week/02DayClass.md)
+7. [Project 7](04Week/01DayClass.md)
+8. [Project 8](04Week/02DayClass.md)
+9. [Project 9](05Week/01DayClass.md)
+10. [Project 10](05Week/02DayClass.md)
+11. [Project 11](06Week/01DayClass.md)
+12. [Project 12](06Week/02DayClass.md)
+13. [Project 13](07Week/01DayClass.md)
+14. [Project 14](07Week/02DayClass.md)
+15. [Project 15](08Week/01DayClass.md)
+16. [Project 16](08Week/02DayClass.md)
+
 
 ##Checkpoints
 <!-- A place for them to get to the checkpoints quickly-->
