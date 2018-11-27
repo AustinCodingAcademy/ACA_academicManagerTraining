@@ -27,7 +27,7 @@
     * [Day 2 Pre-Homework - Title](03Week/02DayPrep.md)
     * [Day 2 Classwork - Title](03Week/02DayClass.md)
 
-* [Checkpoint 1: ...](checkPoints/01checkPoint.md)
+* [Checkpoint 1: Title](checkPoints/01checkPoint.md)
 
 * Week 4
     * [Day 1 Pre-Homework - Title](04Week/01DayPrep.md)
@@ -41,7 +41,7 @@
     * [Day 2 Pre-Homework - Title](05Week/02DayPrep.md)
     * [Day 2 Classwork - Title](05Week/02DayClass.md)
 
-* [Checkpoint 2: ...](checkPoints/02checkPoint.md)
+* [Checkpoint 2: Title](checkPoints/02checkPoint.md)
 
 * Week 6
     * [Day 1 Pre-Homework - Title](06Week/01DayPrep.md)
@@ -61,7 +61,7 @@
     * [Day 2 Pre-Homework - Title](08Week/02DayPrep.md)
     * [Day 2 Classwork - Title](08Week/02DayClass.md)
 
-* [Checkpoint 3:](checkPoints/03checkPoint.md)
+* [Checkpoint 3: Title](checkPoints/03checkPoint.md)
 
 * Post-Class Work
     * [Subject 1](postClassWork/01Post.md)

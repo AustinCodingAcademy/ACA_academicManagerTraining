@@ -2,6 +2,10 @@
 
 # Day 1 Classwork - Title
 
+## Student Presenter of the Day!!
+ * Set aside five minutes of class to have a pre-scheduled student explain to the class a pre-planned subject
+ * Remind the next class's presenter to prepare.
+
 ## Overview
 Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
 Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
@@ -12,15 +16,16 @@ Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
 2. _second item
 3. _third item...
 
-## Title
-
 ### Project Objective
 <!-- In this section we tell the students what they will achieve by the end of the class. For us its a way to set up a goal and reverse engineer it.  -->
 Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
 Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
 
-### Example
+### Examples
 <!-- A picture, mock-up or demo of what they will bring. Link to a website in the wild would be really cool! -->
+* [Example 1](link)
+* [Example 2](link)
+* [Example 3](link)
 
 ### Instructions
 <!-- There should be clear step by step instruction so the material can be asyncronously consumed. This will significantly help our students learn, review and improve your teaching experience.  -->
@@ -39,5 +44,10 @@ Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
 Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
 
 ##Go to [Week 3 Day 2 Pre-Homework >](02DayPrep.md)
+
+# Instructor Notes
+1. Remind the students to merge their PRs.
+1. create an assignment called: "nameOfNewBranchOrRepo"
+1. Remind students to bring paper and pencils to all class.
 
 {% include "../includes/footer.md" %}

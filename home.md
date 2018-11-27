@@ -3,11 +3,24 @@
 # Welcome Home
 
 ## Lectures
-<!-- As you build out lectures in either powerpoint or recordings, make them a link here -->
-1. Lesson 1
-2. Lesson 2
-3. Lesson 3
-...etc
+<!-- As you build out lectures in either powerpoint or google slides, make them a link here -->
+<!-- References for all instructors in the future -->
+1. [Lesson 1]()
+1. [Lesson 2]()
+1. [Lesson 3]()
+1. [Lesson 4]()
+1. [Lesson 5]()
+1. [Lesson 6]()
+1. [Lesson 7]()
+1. [Lesson 8]()
+1. [Lesson 9]()
+1. [Lesson 10]()
+1. [Lesson 11]()
+1. [Lesson 12]()
+1. [Lesson 13]()
+1. [Lesson 14]()
+1. [Lesson 15]()
+1. [Lesson 16]()
 
 ## Projects
 <!-- This should be a quick place for students to jump to projects. Just a link to the class day file will be good. -->
@@ -69,6 +82,6 @@
 * Academic Manager - clayton@austincodingacademy.com
 
 ## How To Use this Textbook Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XQu8TTBmGhA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/303113203" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 {% include "./includes/footer.md" %}
