@@ -8,7 +8,8 @@
 
 ### Setup
 1. `git clone` repository
-1. `cd` into project directory and run `yarn` to install dependencies
+1. `cd` into project directory and run `yarn` to install dependencies or `npm install`
+1. `npm audit`
 1. Run `npx gitbook install` to install GitBook plugins
 1. Run `npx gitbook serve` to serve locally at `http://localhost:4000`
 
