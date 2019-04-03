@@ -2,7 +2,7 @@
 
 * [Home](home.md)
 * [Culture and Values](culture/01DayClass.md)
-* [What You'll Be Teaching](whatYouTeach/01DayClass.md)
+* [What You'll Be Teaching](steps/whatYouTeach.md)
 * [Methodology](methodology/01DayClass.md)
 * [On-the-Job Duties](steps/onTheJob.md)
 * [Human Resources](humanResources/01DayClass.md)
