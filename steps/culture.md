@@ -7,7 +7,6 @@
 * By doing this we are making ourselves better while making others around us better. 
 Insert video of grad: Gregg and Erica
 
-
 ## How It All Started
 
 Give everyone a background of the company. I love the humble beginnings and I think it really shows-off who we are and what we're about.
