@@ -10,7 +10,7 @@ Show to them a sample graduation presentation.
 
 Offer a link to the textbook of each track.
 
-1. [Web 101]()
+1. [Web 101]()    
 1. [JS 211]()
 1. [JS 311]()
 1. [C# 221]()
