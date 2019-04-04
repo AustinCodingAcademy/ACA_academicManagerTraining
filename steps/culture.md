@@ -2,7 +2,11 @@
 
 # Our Culture and Our Values
 
-Here we give a broad overview. The first thing that comes to mind like: Make yourself better while making others around you better.
+* ACA was started for the sole-purpose to lower the financial barrier of entry into the tech industry.
+* We change people’s lives by teaching them a skill set and way of thinking that gives them purpose and value in a growing industry with major potential.
+* By doing this we are making ourselves better while making others around us better. 
+Insert video of grad: Gregg and Erica
+
 
 ## How It All Started
 

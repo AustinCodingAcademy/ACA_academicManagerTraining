@@ -1,9 +1,9 @@
 # Summary
 
 * [Home](home.md)
-* [Culture and Values](culture/01DayClass.md)
+* [Culture and Values](steps/culture.md)
 * [What You'll Be Teaching](steps/whatYouTeach.md)
-* [Methodology](methodology/01DayClass.md)
+* [Methodology](steps/methodology.md)
 * [On-the-Job Duties](steps/onTheJob.md)
-* [Human Resources](humanResources/01DayClass.md)
+* [Human Resources](steps/humanResources.md)
 * [Exit Exam](exams/finalExam.md)
