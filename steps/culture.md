@@ -22,8 +22,11 @@ Here we paint with a finer brush to tell our future instructor what we expect an
 Offer here a list of attitudes, traits and actions the future instructor can take on for themselves to continue the culture and value system at ACA.
 
 ### Test
+<!-- Evaluation -->
 
 At the end of each section, a googleForm can be embedded to test there understanding. They should be able to see the results.
+
+[ACA Culture and Values](https://docs.google.com/forms/d/e/1FAIpQLSdDdFbpfGvFMLkkMfly3nwqJSvTLBZ4Knut-K_tubASuwLYHw/viewform?usp=sf_link)
 
 ## Go to [What You'll Be Teaching](../whatYouTeach/01DayClass.md)
 

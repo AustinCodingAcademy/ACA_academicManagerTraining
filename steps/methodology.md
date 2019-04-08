@@ -12,7 +12,7 @@
 ###Whiteboarding
 *15 minutes*
 
-Instructors are given whiteboarding challenges to build critial thinking, problem solving skills and use of programming languages. It's good practice to randomly choose students that will work to solve it aloud at the whiteboard while all other students actively work by themselves to work through the challenge.
+Instructors are given whiteboarding challenges to build critical thinking, problem solving skills and use of programming languages. It's good practice to randomly choose students that will work to solve it aloud at the whiteboard while all other students actively work by themselves to work through the challenge.
 
 ###Q/A On-Homework
 *25 minutes*
@@ -26,7 +26,7 @@ Strictly at 7:30pm: Instead of lectures, students spend in-class time working on
 ###Interview Tips & Questions
 Every other class ends with Interview Questions to answer in a Medium blog. These questions prepare students for interviewing by covering broader concepts than covered in class as well as teaching the student’s to clearly work through their thought process. 
 
-## Hands-On
+<!-- ## Hands-On
 
 Explain the importance of each and how to implement them.
 
@@ -35,7 +35,7 @@ Explain the importance of each and how to implement them.
 * Q/A On-Homework - Randomizer
 * Teachable moments
 * Use the whiteboard to draw pictures to help students struggling with concepts. Why images are so important
-* Always coding/code planning by 7:30
+* Always coding/code planning by 7:30 -->
 
 ## Test
 
