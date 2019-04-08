@@ -2,28 +2,63 @@
 
 # Our Culture and Our Values
 
-* ACA was started to lower the financial barrier of entry into the tech industry.
-* We change people’s lives by teaching them a skill set and way of thinking that gives them purpose and value in a growing industry with major potential.
-* By doing this we are making ourselves better while making others around us better. 
-Insert video of grad: Gregg and Erica
-
 ## How It All Started
 
-Give everyone a background of the company. I love the humble beginnings and I think it really shows-off who we are and what we're about.
+Austin Coding Academy began all because a couple entrepreneurs realized it was incredibly hard to get into the tech world if you didn't go that direction straight out of high school. Even with the advent of boot camps, the cost and commitment were so high many people were excluded from the development work opportunity. At ACA, we are driven to provide quality instruction to all of our community, from all walks of life with all different backgrounds.
 
-## Our Mission
+Checkout the story from the eyes of it's co-founders, Luke and Chris.
 
-Here we paint with a finer brush to tell our future instructor what we expect and wy we show up in the office everyday.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvlytBUgpa4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XQu8TTBmGhA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+## The Why
 
-## What Can You Do?
+Teaching in itself it purposeful work. We are using our skills and knowledge to help grow other people around us. We are cultivating skills and minds to be better. This is our purpose at ACA, to grown, become better, and to offer to our community an affordable option to get into a better paying and more valuable career.
 
-Offer here a list of attitudes, traits and actions the future instructor can take on for themselves to continue the culture and value system at ACA.
+Checkout the videos below to learn more about why we come to the office every day and provide a curriculum, learning environment and organization to build skills, open opportunities and place graduates.
 
-### Test
+**ACA was started to lower the financial barrier of entry into the tech industry.**
 
-At the end of each section, a googleForm can be embedded to test there understanding. They should be able to see the results.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e25bNsKfEPo?start=3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+******
+
+**We change people’s lives by teaching them a skill set and way of thinking that gives them purpose and value in a growing industry with major potential.**
+
+<iframe src="https://player.vimeo.com/video/290913789" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+******
+
+**By doing this we are making ourselves better while making others around us better.**
+
+<iframe src="https://player.vimeo.com/video/290925619" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+******
+
+## Our Mission in the Classroom
+
+Everyday students enroll into ACA, read ACA textbooks, attend ACA classes,build projects with ACA instruction and work in careers that satisfy them because they graduated ACA. We have a lot on our plate but we also have a lot to be thankful for.
+
+In the classroom, we have just one more day to bring student's closer to their dream job. One more day to bring them closer to understanding. One more day to giving their families more vacation time. And one more day to bring them personal satisfaction.
+
+With all of that we as Instructors must bring to the student our knowledge of the field, industry, science and the current curriculum to serve them on their individual tasks for that day.
+
+## What Can You Do in the Classroom
+
+ACA hires full-time developers to be part-time instructors. This model allows us to offer an affordable education without quitting their own full-time job or family.
+
+As an Instructor you should bring to your students the compassion for the extra work the must put in now while also challenging them to grow through each runtime error or failure to build.
+
+Your students will look up to you as what they want to become. This carries with it a certain amount of power. Use this power to influence each student to work with integrity, quality and tenacity. Teach each of your students that this industry thrives on hard work and constant need for improvement.
+
+While doing this, make sure you follow the curriculum laid out. This takes a little bit of time to prep but coming in knowing what the students have learned about and what the day's lesson entails will prove more valuable as you grow with your students. Knowing when and where they will hit problems will prove to your students the confidence they walk in having in you.
+
+Checkout this quick video on what traits a high quality instructor bring with them to the classroom.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSNUtDv8CiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Quiz Time
+
+Before moving on: Take the [Culture and Values Quiz](https://forms.gle/cATqbN3ifvvgUvwd7)
 
 ## Go to [What You'll Be Teaching](../whatYouTeach/01DayClass.md)
 
