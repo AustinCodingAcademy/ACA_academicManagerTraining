@@ -20,13 +20,13 @@ Instructors are given whiteboarding challenges to build critical thinking, probl
 Using the provided key questions, the Instructor asks specific students to answer questions based on their studying since the previous class. Instructors lead an active discussion and monitor the amount of talking time, so that it does not turn into a lecture.
 
 ###In-Class Project
-Strictly at 7:30pm: Students spend in-class time working on achievable learning projects with the help of a developer in the room. Students must spend time before class reading, watching and practicing their homework to be the most successful. 
+Strictly at 7:30pm: Students spend in-class time working on achievable learning projects with the help of a developer walking around the room and helping answer questions. Students must spend time before class reading, watching and practicing their homework.
 *90 minutes*
 
 ###Interview Tips & Questions
-Every other class ends with Interview Questions to answer in a Medium blog. These questions prepare students for interviewing by covering broader concepts than covered in class as well as teaching the student’s to clearly work through their thought process. 
+Every other class ends with Interview Questions to answer in a Medium blog. These questions prepare students for interviewing by covering broader concepts than covered in class as well as teaching the student’s to clearly work through their thought process.  
 
-## Hands-On
+<!-- ## Hands-On
 
 Explain the importance of each and how to implement them.
 
@@ -35,11 +35,11 @@ Explain the importance of each and how to implement them.
 * Q/A On-Homework - Randomizer
 * Teachable moments
 * Use the whiteboard to draw pictures to help students struggling with concepts. Why images are so important
-* Always coding/code planning by 7:30
+* Always coding/code planning by 7:30 -->
 
 ## Test
 
-<Embed GoogleForm here>
+<Embed GoogleForm here, yeah!>
 
 ## Go to [On-the-Job Duties](../onTheJob/01DayClass.md)
 
