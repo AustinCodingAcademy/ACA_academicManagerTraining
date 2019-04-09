@@ -37,7 +37,7 @@ Every other class ends with Interview Questions to answer in a Medium blog. Thes
 
 ## Test
 
-<Embed GoogleForm here, yeah!>
+Whoa there, make sure you take the [Methodology Quiz](https://docs.google.com/forms/d/e/1FAIpQLSel9wu_XF_Y5IU5A_EQLKYOXkiOU5qZe9pUN9gKDaVRJSe-0w/viewform?usp=sf_link) before getting on out of here.
 
 ## Go to [On-the-Job Duties](../onTheJob/01DayClass.md)
 
