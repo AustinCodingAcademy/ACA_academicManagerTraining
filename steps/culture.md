@@ -52,7 +52,7 @@ Your students will look up to you as what they want to become. This carries with
 
 While doing this, make sure you follow the curriculum laid out. This takes a little bit of time to prep but coming in knowing what the students have learned about and what the day's lesson entails will prove more valuable as you grow with your students. Knowing when and where they will hit problems will prove to your students the confidence they walk in having in you.
 
-Checkout this quick video on what traits a high quality instructor bring with them to the classroom.
+**Checkout this quick video on what traits a high quality instructor bring with them to the classroom.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uSNUtDv8CiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
