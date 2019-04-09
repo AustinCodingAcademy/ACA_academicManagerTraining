@@ -1,21 +1,22 @@
 {% include "../includes/header.md" %}
 
 <!-- fixed titles
-add quiz link
 add embedded agreement signature. -->
 
 # Human Resources
 
+* [Old Training](https://training.austincodingacademy.com/)
+
+## Code of Conduct
+What is expected.
 * Sensitivity
 * Diversity
 * Adult Learning
 * Ethics
+
+## Missing Class
+
 * [Substitute Policy](https://docs.google.com/document/d/1bmL3VxDGjilIkEOsXOAHYvwMMvcFa-TsW_YYy3Qc6bE/edit)
-* [Old Training](https://training.austincodingacademy.com/)
-
-
-## Code of Conduct
-What is expected.
 
 ## Student and Instructor Handbook
 
@@ -23,7 +24,7 @@ What is expected.
 
 ## Agreement and Consent
 
-<Embed googleForm here>
+[ACA Agreement & Concent](https://docs.google.com/forms/d/e/1FAIpQLSfMIg2uGj2qMPUbljr8mposn0jS7JGBZu8Uu8pSVe94U-Nbag/viewform?usp=sf_link)
 
 ## Test
 
