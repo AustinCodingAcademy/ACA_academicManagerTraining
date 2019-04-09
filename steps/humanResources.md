@@ -1,5 +1,9 @@
 {% include "../includes/header.md" %}
 
+<!-- fixed titles
+add quiz link
+add embedded agreement signature. -->
+
 # Human Resources
 
 * Sensitivity
@@ -23,7 +27,7 @@ What is expected.
 
 ## Test
 
-<Embed googleForm here>
+[Human Resources](https://docs.google.com/forms/d/e/1FAIpQLScyitlBW0Ot45bxYNCJ0p6pv5uKk6uOwksBKwX4TDWJez8jsA/viewform?usp=sf_link)
 
 ## Go to [Final Exam>](exams/finalExam.md)
 
