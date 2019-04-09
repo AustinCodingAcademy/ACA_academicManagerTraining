@@ -2,19 +2,28 @@
 
 # Methodology
 
-###Beginning Class
-*5 minutes*
+## How
+
+Because ACA classes are held only twice a week, students are required to to what we call "pre-homework". This "pre-homework" consists of reading, videos and practice problems that teach directly to the following day's challenge. The pre-homework is intended replace lecture, demos and code-alongs.
+
+With this material covered in advanced, we now have a streamlined class experience to provides a structure the students can depend on and the instructor can lean on.
+
+Follow the class structure below to provide effective instruction that will teach to multiple levels and to different people.
+
+## Student Presentations - *5 minutes*
+
+At the beginning of each class a student will present on a topic assigned to them through the textbook and the Instructor. The purpose of Student Presentations is two-fold, 1) to develop the student verbal communication of tech and abstract concepts in a group setting, 2) enhance and expand the knowledge of the class by introducing concepts not covered in the class's study material.
+
 * Web 101 - Students present either on a topic they are familiar with from their past experience.
 * 211/221 - Given a prompt in the textbook, student’s present on workflow, efficiency, and/or unique programming concepts.
 * 311/321 - Students present to the class over Pre-Homework.
 * 411/421 - Students present an App they have created with their challenges and plans to improve it.
 
-###Whiteboarding
-*15 minutes*
+## Whiteboarding - *15 minutes*
 
-Instructors are given whiteboarding challenges to build critical thinking, problem solving skills and use of programming languages. It's good practice to randomly choose students that will work to solve it aloud at the whiteboard while all other students actively work by themselves to work through the challenge.
+Instructors are given whiteboarding challenges to build critical thinking,problem solving skills and use of programming languages. It's good practice to randomly choose students that will work to solve it aloud at the whiteboard while all other students actively work by themselves to work through the challenge.
 
-###Q/A On-Homework
+### Q/A On-Homework
 *25 minutes*
 
 Using the provided key questions, the Instructor asks specific students to answer questions based on their studying since the previous class. Instructors lead an active discussion and monitor the amount of talking time, so that it does not turn into a lecture.
