@@ -14,7 +14,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fa3-0uGTo58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 2.2 Equal Employment Opportunity & Americans with Disabilities Act
+### Equal Employment Opportunity & Americans with Disabilities Act
   
 It is the policy of the Company to provide equal employment opportunities to all employees and employment applicants without regard to unlawful considerations of race, religion, creed, color, national origin, sex, pregnancy, sexual orientation, gender identity, age, ancestry, physical or mental disability, genetic information, marital status or any other classification protected by applicable local, state or federal laws. This policy prohibits unlawful discrimination based on the perception that anyone has any of those characteristics, or is associated with a person who has or is perceived as having any of those characteristics. This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, working conditions, compensation, promotion, benefits, scheduling, training, discipline and termination.
   
@@ -22,23 +22,23 @@ The Company expects all employees to support our equal employment opportunity po
   
 Moreover, in compliance with the Americans with Disabilities Act (ADA), the Company provides reasonable accommodations to qualified individuals with disabilities to the fullest extent required by law. The Company may require medical certification of both the disability and the need for accommodation. Keep in mind that the Company can only seek to accommodate the known physical or mental limitations of an otherwise qualified individual. Therefore, it is your responsibility to come forward if you are in need of an accommodation. The Company will engage in an interactive process with the employee to identify possible accommodations, if any will help the applicant or employee perform the job.
   
-### 2.3 Confidentiality
+### Confidentiality
   
 In the course of employment with the Company, employees may have access to "Confidential Information" regarding the Company, which may include its business strategy, future plans, financial information, contracts, suppliers, customers, personnel information or other information that the Company considers proprietary and confidential. Maintaining the confidentiality of this information is vital to the Company's competitive position in the industry and, ultimately, to its ability to achieve financial success and stability. Employees must protect this information by safeguarding it when in use, using it only for the business of the Company and disclosing it only when authorized to do so and to those who have a legitimate business need to know about it. This duty of confidentiality applies whether the employee is on or off the Company's premises, and during and even after the end of the employee's employment with the Company. This duty of confidentiality also applies to communications transmitted by the Company's electronic communications. See also Internet, Email and Computer Use policy, herein.
   
 As a condition of employment with the Company, all employees must sign a Non-Disclosure Agreement.
   
-### 2.4 Employment of Minors
+### Employment of Minors
   
 The FLSA's child labor provisions, which the Company strictly adheres to, are designed to protect the educational opportunities of youth and prohibit their employment in jobs that are detrimental to their health and safety. Generally speaking, the FLSA sets the minimum age for employment (14 years for non-agricultural jobs), restricts the hours youth under the age of 16 may work, and prohibits youth under the age of 18 from being employed in hazardous occupations. In addition, the FLSA establishes subminimum wage standards for certain employees who are less than 20 years of age, full-time students, student learners, apprentices, and workers with disabilities. Employers generally must have authorization from the U.S. Department of Labor's Wage and Hour Division (WHD) in order to pay sub-minimum wage rates.
   
-### 2.5 Employment of Relatives
+### Employment of Relatives
   
 The Company recognizes that the employment of relatives in certain circumstances, such as when they will work in the same department, supervise or manage the other, or have access to confidential or sensitive information regarding the other, can cause problems related to supervision, safety, security or morale, or create conflicts of interest that materially and substantially disrupt the Company's operations. When the Company determines any of these problems will be present, it will decline to hire an individual to work in the same department as a relative. Relatives subject to this policy include: father, mother, sister, brother, current spouse or domestic partner, child (natural, foster, or adopted), current mother-in- law, current father-in-law, grandparent, or grandchild.
   
 If present employees become relatives during employment, the Company should be notified so that we may determine whether a problem involving supervision, safety, security or morale, or a conflict of interest that would materially and substantially disrupt the Company's operations exists. If the Company determines that such a problem exists, the Company will take appropriate steps to resolve the problem, which may include reassignment of one relative (if feasible) or asking for the resignation of one of the relatives.
   
-### 2.6 Personnel Records and Employee References
+### Personnel Records and Employee References
   
 The Company maintains a personnel file and payroll records for each employee as required by law. Personnel files and payroll records are the property of the Company and may not be removed from Company premises without written authorization. Because personnel files and payroll records are confidential, access to the records is restricted. Generally, only those who have a legitimate reason to review information in an employee's file are allowed to do so. Disclosure of personnel information to outside sources will be limited. However, the Company will cooperate with requests from authorized law enforcement or local, state, or federal agencies conducting official investigations and as otherwise legally required.
   
@@ -46,17 +46,17 @@ Employees may contact a Human Resources representative to request a time to revi
   
 By policy, the Company will provide only the former or present employee's dates of employment and position(s) held with the Company. Compensation information may also be verified if written authorization is provided by the employee.
   
-### 2.7 Privacy
+### Privacy
   
 The Company is respectful of employee privacy. All employee demographic and personal information will be shared only as required in the normal course of business. Healthcare enrollment information is kept in a separate folder from other human resources forms. Workers' Compensation information is not considered private healthcare information; however, this information will be released only on a need-to-know basis.
   
 The Company does not make or receive any private healthcare information through the course of normal work. If any employee voluntarily shares private healthcare information with a member of management, this information will be kept confidential. If applicable, the Company will set up guidelines for employees and management to follow to ensure that company employees conform to the requirements of the Health Insurance Portability and Accountability Act (HIPAA).
   
-### 2.8 Immigration Law Compliance
+### Immigration Law Compliance
 
 In compliance with the Immigration Reform and Control Act of 1986, each new employee, as a condition of employment, must complete the Employment Eligibility Verification Form I-9 on the date of hire and present documentation establishing identity and employment eligibility within three business days of date of hire. Former employees who are rehired must also complete an I-9 form if they have not completed an I-9 form with the Company within the past three years, or if their previous I-9 form is no longer retained or valid. You may raise questions or complaints about immigration law compliance without fear of reprisal.
   
-### 2.9 Political Neutrality
+### Political Neutrality
   
 Maintenance of individual freedom and our political institutions necessitates broad scale participation by citizens concerning the selection, nomination and election of our public office holders. The Company will not discriminate against any employee because of identification with and support of any lawful political activity. Company employees are entitled to their own personal political position. The Company will not discriminate against employees based on their lawful political activity engaged in outside of work. If you are engaging in political activity, however, you should always make it clear that your actions and opinions are your own and not necessarily those of the Company, and that you are not representing the Company.
   
@@ -64,11 +64,11 @@ Maintenance of individual freedom and our political institutions necessitates br
 
 Hours of Work and Payroll Practices
   
-### 3.1 Pay Periods and Paydays
+### Pay Periods and Paydays
   
 Employees are paid on a bi-monthly basis. All employees will be paid every other Friday. All employees are paid by check or direct deposit on the above-mentioned payday. If the regular payday falls on a weekend or Company holiday, employees will be paid on the last business day before the holiday and/or weekend.
 
-### 4.1 Anti- Harassment and Discrimination
+### Anti- Harassment and Discrimination
   
 The Company is committed to providing a work environment free of sexual or any form of unlawful harassment or discrimination. Harassment or unlawful discrimination against individuals on the basis of race, religion, creed, color, national origin, sex, pregnancy, sexual orientation, gender identity, age, ancestry, physical or mental disability, genetic information, marital status or any other classification protected by local, state or federal laws is illegal and prohibited by Company policy. Such conduct by or towards any employee, contract worker, customer, vendor or anyone else who does business with the Company will not be tolerated. Any employee or contract worker who violates this policy will be subject to disciplinary action, up to and including termination of his or her employment or engagement. To the extent a customer, vendor or other person with whom the Company does business engages in unlawful harassment or discrimination, the Company will take appropriate corrective action.
 
@@ -92,11 +92,11 @@ Do not allow an inappropriate situation to continue by not reporting it, regardl
   
 To the extent that an employee or contract worker is not satisfied with the Company's handling of a harassment or discrimination complaint, he or she may also contact the appropriate state or federal enforcement agency for legal relief.
   
-### 4.2 Attendance
+### Attendance
   
 Punctuality and regular attendance are essential to the successful operation of the Company's business. If an employee is unable to report to work (or to report to work on time) for any reason, the employee must notify his or her supervisor before his or her starting time. If an employee desires to leave work for any reason during the workday, the employee must obtain the approval of his or her supervisor prior to leaving. In the event that the employee fails to call his or her supervisor or report for work for 3 consecutive workdays, the employee will be deemed to have voluntarily resigned from his or her employment with the Company and will be removed from the payroll. Excessive absenteeism or tardiness may subject the employee to disciplinary action, up to and including termination.
 
-### 4.3 Discipline and Standards of Conduct
+### Discipline and Standards of Conduct
   
 As an at-will employer, the Company may impose discipline whenever it determines it is necessary or appropriate. Discipline may take various forms, including verbal counseling, written warnings, suspension, demotion, transfer, reassignment or termination. The discipline imposed will depend on the circumstances of each case; therefore, discipline will not necessarily be imposed in any particular sequence. Moreover, at any time the Company determines it is appropriate, an employee may be terminated immediately.
   
@@ -126,15 +126,15 @@ Every organization must have certain standards of conduct to guide the behavior 
   
  * Violation of any Company policy.
   
-### 4.4 Dress Code
+### Dress Code
   
 What we wear to work is a reflection of the pride we have in our Company, in what we do, and in ourselves. Although dress code requirements will vary according to job responsibilities, we ask that your appearance at all times show discretion, good taste, and appropriateness for the safe performance of your job.
   
-### 4.5 Safety
+### Safety
   
 The Company is committed to providing a safe workplace. Accordingly, the Company emphasizes "safety first." It is the employee's responsibility to take steps to promote safety in the workplace and work in a safe manner. By remaining safety conscious, employees can protect themselves and their coworkers. Employees are expected to promptly report all unsafe working conditions, accidents and injuries, regardless of how minor so that any potential hazards can be corrected.
   
-### 4.6 Substance and Abuse
+### Substance and Abuse
   
 The Company is committed to providing its employees with a safe and productive work environment. In keeping with this commitment, it maintains a strict policy against the use of alcohol and the unlawful use of drugs in the workplace. Consequently, no employee may consume or possess alcohol, or use, possess, sell, purchase or transfer illegal drugs at any time while on the Company's premises or while using the Company vehicles or equipment, or at any location during work time. 
   
@@ -144,7 +144,7 @@ Any violation of this policy will result in disciplinary action, up to and inclu
   
 Any employee who feels he or she has developed an addiction to, dependence upon, or problem with alcohol or drugs, legal or illegal, is strongly encouraged to seek assistance before a violation of this policy occurs. Any employee who requests time off to participate in a rehabilitation program will be reasonably accommodated. However, employees may not avoid disciplinary action, up to and including termination, by entering a rehabilitation program after a violation of this policy is suspected or discovered.
   
-### 4.7 Workplace Searches
+### Workplace Searches
   
 All offices, desks, file drawers, cabinets, lockers, Company vehicles, and other Company equipment (including but not limited to computers, e-mail and voice mail) and facilities or any area on Company premises are the property of the Company ("Company Property"), and are intended for business use. Employees should have no expectation of privacy with respect to Company property and/or items stored within Company Property or on Company premises. Inspection may be conducted at any time, without notice, at the discretion of the Company.
   
@@ -152,7 +152,7 @@ In addition, when the Company deems appropriate, employees may be required to su
   
 Persons entering the premises who refuse to cooperate in an inspection conducted pursuant to this policy may not be permitted to enter the premises. All employees must cooperate in an inspection; failure to do so is insubordination and will result in disciplinary action, up to and including termination.
   
-### 4.8 Internet, Email and Computer Use Policy
+### Internet, Email and Computer Use Policy
   
 The Company uses various forms of electronic communication including, but not limited to: computers, email, telephones, voicemail, instant message, text message, Internet, cell phones and smart phones (hereafter referred to as "electronic communications"). The electronic communications, including all software, databases, hardware, and digital files, remain the sole property of the Company and are to be used only for Company business and not for personal use.
   
@@ -172,7 +172,7 @@ The following rules apply to all forms of electronic communications and media th
   
  * Access to the Internet, websites, and other types of Company-paid computer access are to be used for Company-related business only. Any information about Austin Coding Academy, its products or services, or other types of information that will appear in the electronic media about the Company must be approved before the information is placed on any electronic information resource that is accessible to others.
   
-### 4.9 Cell Phone Policy
+### Cell Phone Policy
     
 The Company may provide cell phone allowances to employees in certain positions in an effort to improve efficiency and effectiveness. When cell phones are used for Company business, employees must comply with all Company policies governing conduct, including our policies prohibiting discrimination, harassment, and violence in the workplace. When using the cell phone in a public place, please remember to maintain the confidentiality of any private or confidential business information. As a courtesy to others, please shut cell phones off or place on vibrate mode during meetings.
 
@@ -182,7 +182,7 @@ Austin Coding Academy provides to our instructors a single day of Paid-Time Off 
 
 In addition, you, the Instructor are required to acquire your own pre-approved Substitute Instructor through the Substitute Pool offered by Austin Coding Academy. Upon hiring your Manager will provide you with the Substitute Policy and instructions from acquiring a Substitute Instructor.
 
-### 6.4 Holidays
+### Holidays
   
 Austin Coding Academy observes the following holidays for which class is delayed:
   
