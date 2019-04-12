@@ -33,7 +33,10 @@
 ******
 
 * **Record every class 4/7**
-  * Using the Google Meet code at the top-right of Campus Manager you will record every class from beginning to end.
+  * **Using the Google Meet code at the top-right of Campus Manager you will record every class from beginning to end.**
+
+  ![CM-remoteLink](./images/CM-remoteLink.png)
+
   * If you use the code, sign-into your ACA account and record the class on the day of class, the video will be uploaded to our drive and linked to Campus Manger so all students have nearly immediate access to the recording.
   * Every class, record every minute.
 
