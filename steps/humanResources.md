@@ -200,14 +200,9 @@ Austin Coding Academy observes the following holidays for which class is delayed
 
 ## Agreement and Consent
 
-<Embed googleForm here>
-
-<!-- Add this to the google form
-At-Will Employment Agreement and 
-Acknowledgement of Receipt of Employee Handbook 
+[Agreement and Consent](https://docs.google.com/forms/d/1eP2-kZfNVWw-Gcb9ZaYp7f8J-fL_wOw4wq7jjVsy6Ps/edit)
   
-  
-Employee: _________________ 
+<!-- Employee: _________________ 
   
 I acknowledge that I have been provided with a copy of the Austin Coding Academy (the "Company") Employee Handbook, which contains important information on the Company's policies, procedures and benefits, including the policies on Anti-Harassment/Discrimination, Substance Use and Abuse and Confidentiality. I understand that I am responsible for familiarizing myself with the policies in this handbook and agree to comply with all rules applicable to me. 
   
@@ -227,11 +222,11 @@ CEO
 By: ___________________________________ 	Date: __________________ 
 _________________ 
 
- -->
+ --> -->
 
 ## Test
 
-<Embed googleForm here>
+[Human Resources](https://docs.google.com/forms/d/e/1FAIpQLScyitlBW0Ot45bxYNCJ0p6pv5uKk6uOwksBKwX4TDWJez8jsA/viewform?usp=sf_link)
 
 ## Go to [Final Exam>](exams/finalExam.md)
 
