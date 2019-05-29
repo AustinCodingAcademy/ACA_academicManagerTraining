@@ -58,7 +58,7 @@ While doing this, make sure you follow the curriculum laid out. This takes a lit
 
 ## Quiz Time
 
-Before moving on: Take the [Culture and Values Quiz](https://forms.gle/cATqbN3ifvvgUvwd7)
+Before moving on: Take the [Culture and Values Quiz](https://forms.gle/J1jQAfSNAdtvycFd8)
 
 ## Go to [What You'll Be Teaching](../whatYouTeach/01DayClass.md)
 
