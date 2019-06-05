@@ -60,6 +60,6 @@ You will also work with instructors to help improve class instruction and studen
 
 Before moving on: Take the [Culture and Values Quiz](https://forms.gle/J1jQAfSNAdtvycFd8)
 
-## Go to [What You'll Be Teaching](../whatYouTeach/01DayClass.md)
+## Go to [Student Support](../steps/studentSupport.md)
 
 {% include "../includes/footer.md" %}
