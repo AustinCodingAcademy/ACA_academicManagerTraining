@@ -2,9 +2,9 @@
 
 # Instructor Training
 
-Welcome to Austin Coding Academy's Instructor Training book. We're so happy to have you as an Instructor. We are looking forward to working with you and seeing all of the great things you'll bring to our students and our program. Follow the links on the left to find all important information.
+Welcome to Austin Coding Academy's Academic Manger handbook. We're so happy to have you as an Academic Manager. We are looking forward to working with you and seeing all of the great things you'll bring to our students and program. Follow the links on the left to find all important information.
 
-At the end of each lesson you'll find a form, or quiz, that will find test you on the information you've read and learned about.
+At the end of each lesson you'll find a form, or quiz, that will test you on the information you've read and learned about.
 
 Let's [get started](./steps/culture.md)!
 
