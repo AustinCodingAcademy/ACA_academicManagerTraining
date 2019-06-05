@@ -50,7 +50,7 @@ As an Academic Manager, you should provide your students with compassion for the
 
 Your students will look up to you and lean on you for support. This carries with it a certain amount of power. Use this power to influence each student to work with integrity, quality and tenacity. Teach each of your students that this industry thrives on hard work and constant need for improvement.
 
-You will also work with isntructors to help imrpove class instruction and student cooperation.
+You will also work with instructors to help improve class instruction and student cooperation both in and out of class.
 
 **Checkout this quick video on what traits a high quality instructor bring with them to the classroom.**
 
