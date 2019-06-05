@@ -12,7 +12,7 @@ Checkout the story from the eyes of it's co-founders, Luke and Chris.
 
 ## The Why
 
-Teaching in itself it purposeful work. We are using our skills and knowledge to help grow other people around us. We are cultivating skills and minds to be better. This is our purpose at ACA, to grown, become better, and to offer to our community an affordable option to get into a better paying and more valuable career.
+Teaching in itself it purposeful work. We are using our skills and knowledge to help grow other people around us. We are cultivating skills and minds to be better. This is our purpose at ACA, to grow, become better, and to offer to our community an affordable option to get into a better paying and more valuable career.
 
 Checkout the videos below to learn more about why we come to the office every day and provide a curriculum, learning environment and organization to build skills, open opportunities and place graduates.
 
@@ -58,7 +58,7 @@ While doing this, make sure you follow the curriculum laid out. This takes a lit
 
 ## Quiz Time
 
-Before moving on: Take the [Culture and Values Quiz](https://forms.gle/cATqbN3ifvvgUvwd7)
+Before moving on: Take the [Culture and Values Quiz](https://forms.gle/J1jQAfSNAdtvycFd8)
 
 ## Go to [What You'll Be Teaching](../whatYouTeach/01DayClass.md)
 

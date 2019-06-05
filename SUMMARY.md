@@ -2,8 +2,8 @@
 
 * [Home](home.md)
 * [Culture and Values](steps/culture.md)
-* [Methodology](steps/methodology.md)
-* [What You'll Be Teaching](steps/whatYouTeach.md)
+* [Student Support](steps/studentSupport.md)
+* [Facility & Course Information](steps/facilityAndCourseInfo.md)
 * [On-the-Job Duties](steps/onTheJob.md)
 * [Human Resources](steps/humanResources.md)
 * [Exit Exam](exams/finalExam.md)

@@ -1,6 +1,6 @@
 {% include "../includes/header.md" %}
 
-# What You'll Be Teaching
+# Facility and Course information
 
 Explain the tracks
 List out expectations of our graduates of each track
