@@ -10,7 +10,7 @@ Checkout the story from the eyes of it's co-founders, Luke and Chris.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RvlytBUgpa4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## The Why
+## Why Do We Do It?
 
 Teaching in itself it purposeful work. We are using our skills and knowledge to help grow other people around us. We are cultivating skills and minds to be better. This is our purpose at ACA, to grow, become better, and to offer to our community an affordable option to get into a better paying and more valuable career.
 
@@ -36,21 +36,21 @@ Checkout the videos below to learn more about why we come to the office every da
 
 ## Our Mission in the Classroom
 
-Everyday students enroll into ACA, read ACA textbooks, attend ACA classes,build projects with ACA instruction and work in careers that satisfy them because they graduated ACA. We have a lot on our plate but we also have a lot to be thankful for.
+ACA hires full-time developers to be part-time instructors. This model allows us to offer an affordable education without quitting their own full-time job or family.
+
+Everyday students enroll into ACA, read ACA textbooks, attend ACA classes, build projects with ACA instruction and work in careers that satisfy them because they graduated ACA. We have a lot on our plate but we also have a lot to be thankful for.
 
 In the classroom, we have just one more day to bring student's closer to their dream job. One more day to bring them closer to understanding. One more day to giving their families more vacation time. And one more day to bring them personal satisfaction.
 
-With all of that we as Instructors must bring to the student our knowledge of the field, industry, science and the current curriculum to serve them on their individual tasks for that day.
+Our Instructors must bring to the students our knowledge of the field, industry, science and the current curriculum to serve them on their individual tasks for that day.
 
 ## What Can You Do in the Classroom
 
-ACA hires full-time developers to be part-time instructors. This model allows us to offer an affordable education without quitting their own full-time job or family.
+As an Academic Manager, you should provide your students with compassion for the extra work that must be put in now while also challenging them to grow through each runtime error or failure to build.
 
-As an Instructor you should bring to your students the compassion for the extra work the must put in now while also challenging them to grow through each runtime error or failure to build.
+Your students will look up to you and lean on you for support. This carries with it a certain amount of power. Use this power to influence each student to work with integrity, quality and tenacity. Teach each of your students that this industry thrives on hard work and constant need for improvement.
 
-Your students will look up to you as what they want to become. This carries with it a certain amount of power. Use this power to influence each student to work with integrity, quality and tenacity. Teach each of your students that this industry thrives on hard work and constant need for improvement.
-
-While doing this, make sure you follow the curriculum laid out. This takes a little bit of time to prep but coming in knowing what the students have learned about and what the day's lesson entails will prove more valuable as you grow with your students. Knowing when and where they will hit problems will prove to your students the confidence they walk in having in you.
+You will also work with isntructors to help imrpove class instruction and student cooperation.
 
 **Checkout this quick video on what traits a high quality instructor bring with them to the classroom.**
 
