@@ -2,7 +2,7 @@
 
 # Academic Manager Training
 
-Welcome to Austin Coding Academy's Academic Manger Handbook. We're so happy to have you as an Academic Manager. We are looking forward to working with you and seeing all of the great things you'll bring to our students and program. Follow the links on the left to find all important information.
+Welcome to Austin Coding Academy's Academic Manger Handbook. We're so happy to have you join us as an Academic Manager! We are looking forward to working with you and seeing all of the great things you'll bring to our students and program. Please follow the links on the left to learn more about how to get started as an Academic Manager at ACA.
 
 At the end of each lesson you'll find a form, or quiz, that will test you on the information you've read and learned about.
 
