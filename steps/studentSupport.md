@@ -2,12 +2,11 @@
 
 # Student Support
 
-## Why
+## What Makes Us Different? (The Why)
 
-Austin Coding Academy's relationship and community effort to help students sets ACA apart from other schools that teach Programming Skills. Most students come to ACA to change careers whether that's because they do not enjoy their current job duties or want a better salary.  
+The personal relationships and community that we build with our students sets us apart from other computer programming skills schools. Our students come from all walks of life and each one has their own hardships, problems, or issues. Students put their trust in us to help pave the way for a better future for them and their families. As Academic Advisors, it is our duty to ensure that students have the best experience possible during their time at ACA. 
 
-
-## Student Rapport 
+## Building Student Rapport 
 
 - Present in class
 - interacting with students without interrupting instruction
