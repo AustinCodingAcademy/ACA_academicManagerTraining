@@ -27,3 +27,4 @@ Whoa there, make sure you take the [Methodology Quiz](https://docs.google.com/fo
 ## Go to [On-the-Job Duties](../class/instructionSupport.md)
 
 {% include "../includes/footer.md" %}
+
