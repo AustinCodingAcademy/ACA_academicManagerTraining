@@ -11,7 +11,7 @@ The personal relationships and community that we build with our students sets us
 - Arrive early to class and be present for students before and during class sessions
 - Assist students without interrupting class instruction
 - Keep an eye on student progress and attendance and provide support when students       fall behind
-- Encourage students to attend Happy Hours, Hackathons, and Group Tutoring Sessions
+- Encourage students to attend ACA Happy Hours, Hackathons, and Group Tutoring Sessions
 
 ## Student Communication (The What)
 
