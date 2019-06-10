@@ -16,7 +16,7 @@ ACA uses our in-house management system [Campus Manager](https://campus.austinco
   - Admin-Terms *Can add or edit new classes*
   - Admin-Textbooks *Access to all textbooks for reference*
   - The Student Handbook can also be found through the waffle icon at the top of Campus Manager
-  - Student's View: ACA employs recent graduates a [tutors](https://austincodingacademy.com/tutors/) to help student outside of class. You can guide student to find tutors from Campus Manager by clicking on the waffle icon at the top.
+  - Student's View: ACA employs recent graduates as [tutors](https://austincodingacademy.com/tutors/) to help students outside of class. You can guide students to find tutors from Campus Manager by clicking on the waffle icon at the top.
   - Student's View: Also from the waffle icon you can find ACA's [Calendar](https://calendar.austincodingacademy.com/) of events.
 
 ###RocketChat Admin/ Announcements
@@ -51,6 +51,6 @@ Like Slack, we use [rocketChat](https://chat.austincodingacademy.com/) to mainta
 
 Before heading out, be sure to take the [quiz on Day to Day Procedures](https://docs.google.com/forms/d/e/1FAIpQLSfYmvAgiRy2_Oovi-kOq7Sq1DwSF4qd2ZEqmhNvApdeo9Qpew/viewform?usp=sf_link)!
 
-## Go to [Human Resources](humanResources.md)
+## Go to [Facility & Course Information](facilityAndCourseInfo.md)
 
 {% include "../includes/footer.md" %}
