@@ -24,13 +24,13 @@ Checkout the videos below to learn more about why we come to the office every da
 
 **We change people’s lives by teaching them a skill set and way of thinking that gives them purpose and value in a growing industry with major potential.**
 
-<iframe src="https://player.vimeo.com/video/290913789" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<!-- <iframe src="https://player.vimeo.com/video/290913789" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 
 ******
 
 **By doing this we are making ourselves better while making others around us better.**
 
-<iframe src="https://player.vimeo.com/video/290925619" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<!-- <iframe src="https://player.vimeo.com/video/290925619" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 
 ******
 

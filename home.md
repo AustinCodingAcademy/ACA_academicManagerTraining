@@ -6,7 +6,7 @@ Welcome to Austin Coding Academy's Academic Manger Handbook. We're so happy to h
 
 At the end of each lesson you'll find a form, or quiz, that will test you on the information you've read and learned about.
 
-Let's [get started](./steps/culture.md)!
+Let's [get started](./steps/cultureAndValues.md)!
 
 <!-- ## Examples for References
 

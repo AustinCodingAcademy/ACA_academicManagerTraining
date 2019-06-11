@@ -1,12 +1,12 @@
 {% include "../includes/header.md" %}
 
-# Instruction Support
+# Instruction Support: Building Relationships
 
 ## Instructors, Tutors, Announcements, & Curriculum
 
 We want our students to be successful through the process of learning web development. This process requires maintaining quality instructor feedback, tutor feedback & management, providing important information, as well as using feedback to make ACA Curriculum better. 
 
-###Campus Manager Admin
+###Campus Manager Administration
 
 ACA uses our in-house management system [Campus Manager](https://campus.austincodingacademy.com/#users/5b43b1b15ca8d30014dddfa9) to manage classes, students, instructors, textbooks, attendance and grades. 
 
@@ -45,10 +45,7 @@ Like Slack, we use [rocketChat](https://chat.austincodingacademy.com/) to mainta
 <!-- <iframe src="https://player.vimeo.com/video/336842278" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> -->
 
 
-
-## Quiz
-
-Before heading out, be sure to take the [quiz on Day to Day Procedures](https://docs.google.com/forms/d/e/1FAIpQLSfYmvAgiRgity2_Oovi-kOq7Sq1DwSF4qd2ZEqmhNvApdeo9Qpew/viewform?usp=sf_link)!
+<!-- Quiz for Instructor Support is after process -->
 
 ## Go to [Instructor Support: Process](instructorSupportProcess.md)
 
