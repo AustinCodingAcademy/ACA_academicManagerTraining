@@ -50,6 +50,6 @@ Like Slack, we use [rocketChat](https://chat.austincodingacademy.com/) to mainta
 
 Before heading out, be sure to take the [quiz on Day to Day Procedures](https://docs.google.com/forms/d/e/1FAIpQLSfYmvAgiRgity2_Oovi-kOq7Sq1DwSF4qd2ZEqmhNvApdeo9Qpew/viewform?usp=sf_link)!
 
-## Go to [Facility & Course Information](facilityAndCourseInfo.md)
+## Go to [Instructor Support: Process](instructorSupportProcess.md)
 
 {% include "../includes/footer.md" %}

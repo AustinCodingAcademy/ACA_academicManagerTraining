@@ -24,7 +24,7 @@ The personal relationships and community that we build with our students sets us
 
 Whoa there, make sure you take the [Methodology Quiz](https://docs.google.com/forms/d/e/1FAIpQLSel9wu_XF_Y5IU5A_EQLKYOXkiOU5qZe9pUN9gKDaVRJSe-0w/viewform?usp=sf_link) before getting on out of here.
 
-## Go to [Instruction Support](../steps/instructionSupport.md)
+## Go to [Student Support: Process](../steps/studentSupportProcess.md)
 
 {% include "../includes/footer.md" %}
 

@@ -19,6 +19,6 @@ Offer a link to the textbook of each track.
 1. [WordPress](	https://aca-staff:AustinCoding14@wordpress.austincodingacademy.com)
 1. [UI/UX](https://aca-staff:AustinCoding14@webdesign.austincodingacademy.com)
 
-## Go to [Methodology](methodology/01DayClass.md)
+## Go to [Tools and Resources](toolsAndResources.md)
 
 {% include "../includes/footer.md" %}
