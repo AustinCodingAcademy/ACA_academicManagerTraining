@@ -1,6 +1,6 @@
 {% include "../includes/header.md" %}
 
-# Student Support
+# Student Support: Building Relationships
 
 ## What Makes Us Different? (The Why)
 
@@ -20,11 +20,8 @@ The personal relationships and community that we build with our students sets us
 - Email, Text, Phone: In addition to in-person communication, reach out to students as needed vie email, text, or phone
 - HubSpot: Log communication with students and make notes to track progress
 
-## Test 
 
-Whoa there, make sure you take the [Methodology Quiz](https://docs.google.com/forms/d/e/1FAIpQLSel9wu_XF_Y5IU5A_EQLKYOXkiOU5qZe9pUN9gKDaVRJSe-0w/viewform?usp=sf_link) before getting on out of here.
-
-## Go to [Instruction Support](../steps/instructionSupport.md)
+## Go to [Student Support: Process](../steps/studentSupportProcess.md)
 
 {% include "../includes/footer.md" %}
 
