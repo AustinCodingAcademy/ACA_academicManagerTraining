@@ -46,7 +46,7 @@ Our Instructors must bring to the students our knowledge of the field, industry,
 
 ## What Can You Do in the Classroom
 
-As an Academic Manager, you should provide your students with compassion for the extra work that must be put in now while also challenging them to grow through each runtime error or failure to build.
+As an Campus Director, you should provide your students with compassion for the extra work that must be put in now while also challenging them to grow through each runtime error or failure to build.
 
 Your students will look up to you and lean on you for support. This carries with it a certain amount of power. Use this power to influence each student to work with integrity, quality and tenacity. Teach each of your students that this industry thrives on hard work and constant need for improvement.
 
