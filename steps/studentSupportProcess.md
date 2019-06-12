@@ -47,11 +47,14 @@ There are many tools and procedures we use to ensure quality and efficiency. Ple
     - Tutoring Weekends: This weekly event helps foster community and colloboration by bringing students together from different classes to work on code.
     - Photoshoots: Provides free headshots for students and an opportunity for ACA to share students stories with potential new students. 
 
+
 - **In-Person Conversations**
     - In person conversations are often the best way to follow up with students about attendance, grade, or other course issues. 
 
+
 - **Text Message or Phone Call**
     - Text messages and phone calls are a good starting point for reaching out to students that may not be as comfortable talking in person.
+
 
 **Email**
 Email is another good way to reach out to students. 
