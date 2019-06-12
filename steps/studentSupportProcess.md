@@ -56,8 +56,8 @@ There are many tools and procedures we use to ensure quality and efficiency. Ple
     - Text messages and phone calls are a good starting point for reaching out to students that may not be as comfortable talking in person.
 
 
-**Email**
-Email is another good way to reach out to students. 
+- **Email**
+    - Email is another good way to reach out to students. 
 
 
 
