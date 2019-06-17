@@ -1,10 +1,10 @@
 {% include "../includes/header.md" %}
 
-# Student Support: Process
+## Student Support: Process
 
 There are many tools and procedures we use to ensure quality and efficiency. Please take some time to review the information here. It is broken down into three different sections: Retrieve Data, Document Data, Follow Up With Data
 
-*How Do We Retrieve Data:*
+## How Do We Retrieve Data:
 
 - **Being Present In Class**
     - Attend class sessions to monitor the quality of class instruction and student comprehension. Anytime you see a student, greet them. Before class, ask students how coding is going, what they are working on, or how they are doing. 
@@ -31,14 +31,14 @@ There are many tools and procedures we use to ensure quality and efficiency. Ple
 
 
 
-*How Do We Document Data:*
+## How Do We Document Data:
 
 - **Hubspot** 
     - We use Hubspot to locate student contact information. Make a new note in Hubspot after each conversation in person, by phone, text, RocketChat, or email. 
 
 
 
-*How Do We Follow Up With Data*
+## How Do We Follow Up With Data
 
 - **Class Announcements**
     - Classroom Information: Wifi, locations, times, parking, door codes/keys, textbook, holidays, schedule changes/cancellations, specific class updates, and meet recording links
