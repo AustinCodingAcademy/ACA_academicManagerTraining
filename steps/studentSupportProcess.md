@@ -44,7 +44,7 @@ There are many tools and procedures we use to ensure quality and efficiency. Ple
     - Classroom Information: Wifi, locations, times, parking, door codes/keys, textbook, holidays, schedule changes/cancellations, specific class updates, and meet recording links
     - Hackathons: A great way to build community and get students excited about coding by taking part in a real-life coding challenge. 
     - Happy Hours: These events are important for marketing to new students but also helps to foster a community or family feel with our current students.
-    - Tutoring Weekends: This weekly event helps foster community and colloboration by bringing students together from different classes to work on code.
+    - Tutoring Weekends: This weekly event helps foster community and collaboration by bringing students together from different classes to work on code.
     - Photoshoots: Provides free headshots for students and an opportunity for ACA to share students stories with potential new students. 
 
 
