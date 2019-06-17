@@ -38,7 +38,7 @@ There are many tools and procedures we use to ensure quality and efficiency. Ple
 
 
 
-## How Do We Follow Up With Data
+## How Do We Follow Up With Data:
 
 - **Class Announcements**
     - Classroom Information: Wifi, locations, times, parking, door codes/keys, textbook, holidays, schedule changes/cancellations, specific class updates, and meet recording links
