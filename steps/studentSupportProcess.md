@@ -40,12 +40,6 @@ There are many tools and procedures we use to ensure quality and efficiency. Ple
     - Photoshoots: Provides free headshots for students and an opportunity for ACA to share students stories with potential new students. 
 
 
-## How Do We Document Data:
-
-- **Hubspot** 
-    - We use Hubspot to locate student contact information. Make a new note in Hubspot after each conversation in person, by phone, text, RocketChat, or email. 
-
-
 - **In-Person Conversations**
     - In person conversations are often the best way to follow up with students about attendance, grade, or other course issues. 
 
@@ -56,6 +50,12 @@ There are many tools and procedures we use to ensure quality and efficiency. Ple
 
 - **Email**
     - Email is another good way to reach out to students. 
+
+
+## How Do We Document Data:
+
+- **Hubspot** 
+    - We use Hubspot to locate student contact information. Make a new note in Hubspot after each conversation in person, by phone, text, RocketChat, or email. 
 
 
 ## Student Support: Procedures
