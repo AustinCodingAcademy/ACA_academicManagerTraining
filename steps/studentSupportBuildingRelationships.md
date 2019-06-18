@@ -1,6 +1,6 @@
 {% include "../includes/header.md" %}
 
-## Student Support: Building Relationships
+# Student Support: Building Relationships
 
 Students come to ACA with a multitude of different experiences, skills, and learning styles. Our mission is to connect with students on an authentic level to ensure all of our students succeed at learning a new skill set to improve their lifestyle and provide for their families. 
 

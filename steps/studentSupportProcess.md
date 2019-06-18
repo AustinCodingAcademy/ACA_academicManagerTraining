@@ -1,6 +1,6 @@
 {% include "../includes/header.md" %}
 
-## Student Support: Process
+# Student Support: Process
 There are many tools and procedures we use to ensure quality and efficiency. Please take some time to review the information here. It is broken down into three different sections: Retrieve Data, Follow Up With Data, Document Data
 
 ## How Do We Retrieve Data:
