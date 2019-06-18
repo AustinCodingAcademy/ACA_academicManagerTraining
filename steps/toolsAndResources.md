@@ -11,8 +11,11 @@
     - Main Office: 1812
 
 ## Wifi Passwords
+* North Campus: 
+* Central Campus: 
 
 ## Campus Director Folder 
+* Google Link
 
 ## Supply Closet
 
