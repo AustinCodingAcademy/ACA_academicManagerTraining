@@ -30,13 +30,6 @@ There are many tools and procedures we use to ensure quality and efficiency. Ple
 
 
 
-## How Do We Document Data:
-
-- **Hubspot** 
-    - We use Hubspot to locate student contact information. Make a new note in Hubspot after each conversation in person, by phone, text, RocketChat, or email. 
-
-
-
 ## How Do We Follow Up With Data:
 
 - **Class Announcements**
@@ -45,6 +38,12 @@ There are many tools and procedures we use to ensure quality and efficiency. Ple
     - Happy Hours: These events are important for marketing to new students but also helps to foster a community or family feel with our current students.
     - Tutoring Weekends: This weekly event helps foster community and collaboration by bringing students together from different classes to work on code.
     - Photoshoots: Provides free headshots for students and an opportunity for ACA to share students stories with potential new students. 
+
+
+## How Do We Document Data:
+
+- **Hubspot** 
+    - We use Hubspot to locate student contact information. Make a new note in Hubspot after each conversation in person, by phone, text, RocketChat, or email. 
 
 
 - **In-Person Conversations**
