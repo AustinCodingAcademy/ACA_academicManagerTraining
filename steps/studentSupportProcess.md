@@ -60,6 +60,26 @@ There are many tools and procedures we use to ensure quality and efficiency. Ple
     - Email is another good way to reach out to students. 
 
 
+## Student Support: Procedures
+
+As Campus Director, There are a number of procedures we follow for First/Next Class, First Day of Class, and Last Day of Class
+
+- **Preparing Students for First/Next Class:**
+    - Welcome Email Week Before to students including:
+        - Classroom Location/Meeting Times
+        - Parking Info
+        - Pre-work Encouragement
+        - Contacts for instructors/Admin
+
+- **First Day of Class:**
+    - Introductions
+    - Parking Info/QR Code
+    - Key Cards/Fobs (Google Sheets)
+
+- **Last Day of Class:** 
+    - Key Card/Fob Collection
+    - Info About Next Class/Steps 
+    - EOC Surveys
 
 ## Quiz Time
 
