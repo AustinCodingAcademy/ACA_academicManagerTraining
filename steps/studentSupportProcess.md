@@ -70,10 +70,12 @@ As Campus Director, There are a number of procedures we follow for First/Next Cl
         - Pre-work Encouragement
         - Contacts for instructors/Admin
 
+
 - **First Day of Class:**
     - Introductions
     - Parking Info/QR Code
     - Key Cards/Fobs (Google Sheets)
+
 
 - **Last Day of Class:** 
     - Key Card/Fob Collection
