@@ -24,13 +24,13 @@ Checkout the videos below to learn more about why we come to the office every da
 
 **We change people’s lives by teaching them a skill set and way of thinking that gives them purpose and value in a growing industry with major potential.**
 
-<!-- <iframe src="https://player.vimeo.com/video/290913789" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+<iframe src="https://player.vimeo.com/video/290913789" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ******
 
 **By doing this we are making ourselves better while making others around us better.**
 
-<!-- <iframe src="https://player.vimeo.com/video/290925619" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+<iframe src="https://player.vimeo.com/video/290925619" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ******
 
@@ -38,19 +38,19 @@ Checkout the videos below to learn more about why we come to the office every da
 
 ACA hires full-time developers to be part-time instructors. This model allows us to offer an affordable education without quitting their own full-time job or family.
 
-Everyday students enroll into ACA, read ACA textbooks, attend ACA classes, build projects with ACA instruction and work in careers that satisfy them because they graduated ACA. We have a lot on our plate but we also have a lot to be thankful for.
+Everyday students enroll into ACA, read ACA textbooks, attend ACA classes, build projects with ACA instruction, and work in careers that satisfy them because they graduated from ACA. We have a lot on our plate but we also have a lot to be thankful for.
 
-In the classroom, we have just one more day to bring student's closer to their dream job. One more day to bring them closer to understanding. One more day to giving their families more vacation time. And one more day to bring them personal satisfaction.
+In the classroom, we have just one more day to bring student's closer to their dream job. One more day to bring them closer to understanding. One more day to giving their families more vacation time. And one more day to bring them personal satisfaction and self-worth.
 
-Our Instructors must bring to the students our knowledge of the field, industry, science and the current curriculum to serve them on their individual tasks for that day.
+Our Instructors must bring to the students their knowledge of the field, industry, science, and the current curriculum to serve them on their individual tasks for that day.
 
 ## What Can You Do in the Classroom
 
-As an Campus Director, you should provide your students with compassion for the extra work that must be put in now while also challenging them to grow through each runtime error or failure to build.
+As a Campus Director, you should provide your students with support and compassion for the extra work that must be put in now while also challenging them to grow through each runtime error or failure to build.
 
-Your students will look up to you and lean on you for support. This carries with it a certain amount of power. Use this power to influence each student to work with integrity, quality and tenacity. Teach each of your students that this industry thrives on hard work and constant need for improvement.
+Your students will look up to you and lean on you for support. This carries with it a certain amount of power. Use this power to influence each student to work with integrity, quality, and tenacity. Teach each of your students that this industry thrives on hard work, curiosity, and constant need for self-improvement.
 
-You will also work with instructors to help improve class instruction and student cooperation both in and out of class.
+As the Campus Director, you will also work with instructors to help improve class instruction and student engagement both in and out of class.
 
 **Checkout this quick video on what traits a high quality instructor bring with them to the classroom.**
 
