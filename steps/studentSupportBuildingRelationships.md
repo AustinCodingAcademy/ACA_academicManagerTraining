@@ -25,7 +25,7 @@ Students come to ACA with a multitude of different experiences, skills, and lear
     - While it is your job to support and nurture the growth and learning of our students, at times the class and instructor may need your outside input to steer a student/instructor back on track. This may include difficult meetings, requesting to talk outside, or calling in a supervisor to help you navigate the situation.
 
 - **Show Up to Class w/o Interrupting Flow**
-    - During group work, jump into discussions with students with genuine interest. Use this time to connect with them over code! You can also use what you learn there as a topic for follow-up later on.
+    - Know when to speak and when to sit back. While the instructor is speaking let the students listen to them. During group work, jump into discussions with students with genuine interest. Use this time to connect with them over code! You can also use what you learn there as a topic for follow-up later on.
 
 ## Go to [Student Support: Process](../steps/studentSupportProcess.md)
 
