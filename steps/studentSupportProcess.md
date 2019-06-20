@@ -105,40 +105,6 @@ There are many tools and procedures we use to ensure quality and efficiency whil
     * Implore the students attend Tutoring Weekends: This weekly event builds the school's community and collaboration by bringing students together from different classes to work on code with the help of tutors.
     * Educate them on the importance of Photoshoots: Provided on-occassion, we offer free headshots for students and an opportunity for ACA to share students stories with potential new students.
 
-<!--  -->
-
-******
-# This Should be moved to another file called: Course Lifecycle...
-******
-
-## Student Support: Procedures
-
-As Campus Director, there are a number of procedures we follow for First/Next Class, First Day of Class, and Last Day of Class
-
-### Preparing Students for First/Next Class
-
-    - Welcome Email Week Before to students including:
-        - Classroom Location/Meeting Times
-        - Parking Info
-        - Steps to locate textbook
-        - Pre-work Requirements
-        - rocketChat and email for instructors and Campus Director
-
-### First Day of Class:
-    - Introductions
-    - Parking Info/QR Code
-    - Key Cards/Fobs (Google Sheets)
-
-### Last Day of Class:
-    - Key Card/Fob Collection
-    - Info About Next Class/Steps 
-    - EOC Surveys
-
-******
-# This Should be moved to another file called: Course Lifecycle...
-******
-
-<!--  -->
 ## Quiz Time
 
 Before moving on: Take the [Student Support Quiz]()

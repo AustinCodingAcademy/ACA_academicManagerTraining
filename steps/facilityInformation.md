@@ -2,6 +2,7 @@
 
 # Facility and Course information
 
+<!-- @TODO  -->
 Explain the tracks
 List out expectations of our graduates of each track
 List out expectations of students at the end of each class.
@@ -22,3 +23,8 @@ Offer a link to the textbook of each track.
 ## Go to [Tools and Resources](toolsAndResources.md)
 
 {% include "../includes/footer.md" %}
+
+
+<!-- {% include "../includes/header.md" %}
+
+{% include "../includes/footer.md" %} -->
