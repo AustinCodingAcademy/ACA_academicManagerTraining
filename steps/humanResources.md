@@ -229,9 +229,8 @@ _________________
 
  -->
 
-## Test
-
-<Embed googleForm here>
+<!-- @TODO Create and add quiz link @KATIE @DANIEL -->
+## [Quiz Time](google.com)
 
 ## Go to [Final Exam>](exams/finalExam.md)
 

@@ -24,16 +24,17 @@ Class structure is important to keep students engaged and learning. Also, it's i
     
 #### *Goal Setting*
 
-
-
-#### *New Instructor Feedback*
+<!-- @TODO @DANIEL -->
+### *New Instructor Training and Feedback Program*
 * Coming soon!
-
 
 ## Quiz Time
 
 Before moving on: Take the [Instructor Support Quiz]()
 
 ## Go to [Facility Information](../steps/facilityInformation.md)
+
+******
+******
 
 {% include "../includes/footer.md" %}

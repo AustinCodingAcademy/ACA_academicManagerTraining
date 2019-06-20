@@ -62,7 +62,13 @@ At the End of the Course it is best to take 5-10 minutes of class time to allow 
 
 Instructor evaluations conclude with a low-pressure reflection period. This is best done over tacos. Find a time that works for you and the instructors you're working with to eat and discuss their class experience, concerns, and thoughts for the future. Try to get multiple instructors together so they may confer with one another on the hand-off of one term level to the next. Ensure they all feel supported and free to advocate for themselves and their students.
 
+<!-- @TODO Create and add quiz link @KATIE @DANIEL -->
+## [Quiz Time](google.com)
+
 **On to [Facility Information](facilityInformation.md)**
+
+******
+******
 
 {% include "../includes/footer.md" %}
 

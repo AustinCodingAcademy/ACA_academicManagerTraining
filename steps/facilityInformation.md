@@ -20,10 +20,15 @@ Offer a link to the textbook of each track.
 1. [WordPress](	https://aca-staff:AustinCoding14@wordpress.austincodingacademy.com)
 1. [UI/UX](https://aca-staff:AustinCoding14@webdesign.austincodingacademy.com)
 
-## Go to [Tools and Resources](toolsAndResources.md)
+<!-- @TODO Create and add quiz link @KATIE @DANIEL -->
+## [Quiz Time](google.com)
+
+**Go to [Tools and Resources](toolsAndResources.md)**
+
+******
+******
 
 {% include "../includes/footer.md" %}
-
 
 <!-- {% include "../includes/header.md" %}
 

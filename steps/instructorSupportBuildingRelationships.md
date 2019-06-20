@@ -16,6 +16,12 @@ To successfully communicate and establish quality relationships with instructors
   * Provide the big picture; the students that they are teaching are going to use the information in their future careers.
 * Students get jobs, let’s share!
 
-## Go to [Instructor Support: Process](instructorSupportProcess.md)
+<!-- @TODO Create and add quiz link @KATIE @DANIEL -->
+## [Quiz Time](google.com)
+
+**Go to [Instructor Support: Process](instructorSupportProcess.md)**
+
+******
+******
 
 {% include "../includes/footer.md" %}
