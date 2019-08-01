@@ -2,9 +2,9 @@
 
 # Campus Director Training
 
-Welcome to Austin Coding Academy's Campus Director Handbook. We're so happy to have you join us as a Campus Director! We are looking forward to working with you and seeing all of the great things you'll bring to our students and program. Please follow the links on the left to learn more about how to get started as a Campus Director at ACA.
+Welcome to Austin Coding Academy's Campus Director Handbook. We're so happy to have you join us as a Campus Director! We are looking forward to working with you and seeing all of the great things you'll bring to our students and community. Please follow the links on the left to learn more about how to get started as a Campus Director at ACA.
 
-At the end of each lesson you'll find a form, or quiz, that will test you on the information you've read and learned about.
+At the end of each section you'll find a form, or quiz, that will test you on the information you've read and learned about. Be sure to complete each one as you move through the handbook.
 
 Let's [get started](./steps/cultureAndValues.md)!
 

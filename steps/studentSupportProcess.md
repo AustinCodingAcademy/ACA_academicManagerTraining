@@ -8,21 +8,23 @@ There are many tools and procedures we use to ensure quality and efficiency whil
 
 ### Attend Class
 
-- Campus Directors attend each class at least once a week to monitor the quality of class instruction, instructor/student engagement, and student comprehension and progression.
+- Campus Directors attend each class at least once a week to monitor the quality of the Instructor's engagement with the student, program, textbook, and lesson. Check in on student comprehension and progression.
 
-    * Anytime you see a student, say "hi!", give 'em a fist bump, high five or ask how they're day is. 
-    * While you're hanging out with them before class ask students how their projects are going, what they are working on, or how they are doing over all.
+    * Anytime you see a student, say "hi!", give 'em a fist bump, high five and ask how they're day is. 
+    * While you're hanging out with them before class ask students how their projects are going, what they are working on, or how they are doing over all in life.
     * As you spend time in class, walk around and pat shoulders, look at their work, and ask if they can explain why they're doing what they're doing to you. The trust you build during this time will prove invaluable to both you and the student.
     * After class make sure you're open to questions and concerns student might want to bring up to you. Invite after class talking and hanging out so the student always know this is a community to gather around and be a part of.
 
-### Communicate with Your Instructors
+### Communicate with your Instructors
 
-- Instructors are on the frontline with our students. They are regularly grading the students' assignments and hearing the questions they ask, and reading their blogs. The Instructor is in the know when it comes to how the student's are progressing.
+- Instructors are on the frontline with our students. They are regularly grading the students' assignments, hearing the questions they ask, and reading their blogs. The Instructor is in the know when it comes to the status of a student.
 
     * Regularly communicate with instructors to gain better insight into classroom successes as well as areas for improvement.
     * Ask Instructors how you could help them engage students better.
+    * Offer suggestions for more effective instructional methods.
+    * When checking on student attendance and grades, note your concerns in an email to send to the instructor as a follow-up on.
 
-### Use Your Tutors
+### Talk with your Tutors
 
 - Tutors see the students in one-on-one scenarios and often find themselves in conversation with the students that highlight their struggles. Communicate with tutors about students' learning trends including assignments or concepts that students commonly find difficult.
     * Send emails and rocketChats to each tutor to get their thoughts on students they've worked with.
@@ -30,24 +32,24 @@ There are many tools and procedures we use to ensure quality and efficiency whil
 
 ### Follow RocketChat
 
-- [RocketChat](chat.austincodingacademy.com) is a the community forum. Instructors and students post questions, answers, and support material in their class's channel everyday. This is a prime place for you to passively monitor what students are thinking about, struggling with, and getting excited about.
+- [RocketChat](chat.austincodingacademy.com) is a the community chat platform. Instructors and students post questions, answers, and support material in their class's channel everyday. This is a prime place for you to passively monitor what students are thinking about, struggling with, and getting excited about.
 
     * Regularly monitor each of your classes' channels. Make this a daily habit.
     * Use emojis and gifs to encourage and applaud student engagement.
-    * Share with student resources they may find useful in their current tasks.
+    * Share with students resources they may find useful in their current tasks.
 
 ### Read Every Week
 
-- Every Friday morning you and your instructors will be sent a Weekly Feedback Reports which will include all the students rating and comments for the past two class days. These are valuable insights on how the student understand the textbook and in-class instruction.
+- Every Friday morning you and your instructors will be sent a Weekly Feedback Reports which will include all the students rating and comments for the past two class days. These are valuable insights on how the students understand the textbook and in-class instruction.
 
     * Be sure to read the [Weekly Feedback Reports](https://campus.austincodingacademy.com/#report/U0VMRUNUCiAgJ2FjdGl2ZScgYXMgc3RhdHVzLAogIHVzZXJzX2F0dGVuZGFuY2UuZGF0ZSBhcyBkYXRlLAogIHRlcm1zLm5hbWUgfHwgJy0nIHx8IGNvdXJzZXMubmFtZSBhcyBjb3Vyc2UsCiAgbG9jYXRpb25zLm5hbWUgYXMgbG9jYXRpb24sCiAgR1JPVVBfQ09OQ0FUKGluc3RydWN0b3JzLmZpcnN0X25hbWUgfHwgJyAnIHx8IGluc3RydWN0b3JzLmxhc3RfbmFtZSwgIiwgIikgYXMgaW5zdHJ1Y3RvciwKICBjYXNlIGNhc3QgKHN0cmZ0aW1lKCcldycsIHVzZXJzX2F0dGVuZGFuY2UuZGF0ZSkgYXMgaW50ZWdlcikKCXdoZW4gMCB0aGVuICdTdW5kYXknCgl3aGVuIDEgdGhlbiAnTW9uZGF5JwoJd2hlbiAyIHRoZW4gJ1R1ZXNkYXknCgl3aGVuIDMgdGhlbiAnV2VkbmVzZGF5JwoJd2hlbiA0IHRoZW4gJ1RodXJzZGF5JwoJd2hlbiA1IHRoZW4gJ0ZyaWRheScKCWVsc2UgJ1NhdHVyZGF5JwogIGVuZCBhcyBkYXksCiAgdXNlcnNfYXR0ZW5kYW5jZS5wcmVXb3JrUmF0aW5nLAogIHVzZXJzX2F0dGVuZGFuY2UuaW5DbGFzc0luc3RydWN0aW9uUmF0aW5nLAogIHVzZXJzX2F0dGVuZGFuY2UuZmVlZGJhY2ssCiAgdXNlcnNfYXR0ZW5kYW5jZS5kYXRlCkZST00gdXNlcnNfYXR0ZW5kYW5jZQpKT0lOIHVzZXJzIE9OIHVzZXJzLnlvc3FsX2lkID0gdXNlcnNfYXR0ZW5kYW5jZS51c2Vyc195b3NxbF9pZApqb2luIGNvdXJzZXMgb24gY291cnNlcy5faWQgPSB1c2Vyc19hdHRlbmRhbmNlLmNvdXJzZUlkCmpvaW4gY291cnNlc19pbnN0cnVjdG9ycyBvbiBjb3Vyc2VzLnlvc3FsX2lkID0gY291cnNlc19pbnN0cnVjdG9ycy5jb3Vyc2VzX3lvc3FsX2lkCmxlZnQgam9pbiB1c2VycyBhcyBpbnN0cnVjdG9ycyBvbiBpbnN0cnVjdG9ycy5faWQgPSBjb3Vyc2VzX2luc3RydWN0b3JzLmluc3RydWN0b3JzCmpvaW4gdGVybXMgb24gdGVybXMuX2lkID0gY291cnNlcy50ZXJtCmpvaW4gbG9jYXRpb25zIG9uIGNvdXJzZXMubG9jYXRpb24gPSBsb2NhdGlvbnMuX2lkCkFORCB1c2Vyc19hdHRlbmRhbmNlLmRhdGUgYmV0d2VlbiBkYXRlKCdub3cnLCAnLTcgZGF5cycpIEFORCBkYXRlKCdub3cnKQpBTkQgaW5zdHJ1Y3RvcnMudXNlcm5hbWUgPSAnanVhbi5qLnJvZHJpZ3VlejJAZ21haWwuY29tJwpHUk9VUCBCWSB1c2Vycy5faWQsIHVzZXJzX2F0dGVuZGFuY2UuZGF0ZQpPUkRFUiBCWSB1c2Vyc19hdHRlbmRhbmNlLmRhdGUgZGVzYzs=) each week and [follow up with students](https://campus.austincodingacademy.com/#report/U0VMRUNUCiAgdXNlcnMuZmlyc3RfbmFtZSB8fCAiICIgfHwgdXNlcnMubGFzdF9uYW1lIGFzIG5hbWUsCiAgdXNlcnMudXNlcm5hbWUgYXMgZW1haWwsCiAgdXNlcnMucGhvbmUsCiAgY291cnNlcy5uYW1lIGFzIGNvdXJzZSwKICB0ZXJtcy5uYW1lIGFzIHRlcm0sCiAgbG9jYXRpb25zLm5hbWUgYXMgbG9jYXRpb24sCiAgR1JPVVBfQ09OQ0FUKGluc3RydWN0b3JzLmZpcnN0X25hbWUgfHwgJyAnIHx8IGluc3RydWN0b3JzLmxhc3RfbmFtZSwgIiwgIikgYXMgaW5zdHJ1Y3RvciwKICBjYXNlIGNhc3QgKHN0cmZ0aW1lKCcldycsIHVzZXJzX2F0dGVuZGFuY2UuZGF0ZSkgYXMgaW50ZWdlcikKCXdoZW4gMCB0aGVuICdTdW5kYXknCgl3aGVuIDEgdGhlbiAnTW9uZGF5JwoJd2hlbiAyIHRoZW4gJ1R1ZXNkYXknCgl3aGVuIDMgdGhlbiAnV2VkbmVzZGF5JwoJd2hlbiA0IHRoZW4gJ1RodXJzZGF5JwoJd2hlbiA1IHRoZW4gJ0ZyaWRheScKCWVsc2UgJ1NhdHVyZGF5JwogIGVuZCBhcyBkYXksCiAgdXNlcnNfYXR0ZW5kYW5jZS5wcmVXb3JrUmF0aW5nLAogIHVzZXJzX2F0dGVuZGFuY2UuaW5DbGFzc0luc3RydWN0aW9uUmF0aW5nLAogIHVzZXJzX2F0dGVuZGFuY2UuZmVlZGJhY2ssCiAgdXNlcnNfYXR0ZW5kYW5jZS5kYXRlCiAgCkZST00gdXNlcnNfYXR0ZW5kYW5jZQpKT0lOIHVzZXJzIE9OIHVzZXJzLnlvc3FsX2lkID0gdXNlcnNfYXR0ZW5kYW5jZS51c2Vyc195b3NxbF9pZApqb2luIGNvdXJzZXNfcmVnaXN0cmF0aW9ucyBvbiBjb3Vyc2VzX3JlZ2lzdHJhdGlvbnMucmVnaXN0cmF0aW9ucyA9IHVzZXJzLl9pZApqb2luIGNvdXJzZXMgb24gY291cnNlcy55b3NxbF9pZCA9IGNvdXJzZXNfcmVnaXN0cmF0aW9ucy5jb3Vyc2VzX3lvc3FsX2lkCmpvaW4gY291cnNlc19pbnN0cnVjdG9ycyBvbiBjb3Vyc2VzLnlvc3FsX2lkID0gY291cnNlc19pbnN0cnVjdG9ycy5jb3Vyc2VzX3lvc3FsX2lkCmxlZnQgam9pbiB1c2VycyBhcyBpbnN0cnVjdG9ycyBvbiBpbnN0cnVjdG9ycy5faWQgPSBjb3Vyc2VzX2luc3RydWN0b3JzLmluc3RydWN0b3JzCmpvaW4gdGVybXMgb24gdGVybXMuX2lkID0gY291cnNlcy50ZXJtCmpvaW4gbG9jYXRpb25zIG9uIGNvdXJzZXMubG9jYXRpb24gPSBsb2NhdGlvbnMuX2lkCkFORCBkYXRlKCdub3cnKSBiZXR3ZWVuIHRlcm1zLnN0YXJ0X2RhdGUgQU5EIHRlcm1zLmVuZF9kYXRlCldIRVJFIHVzZXJzX2F0dGVuZGFuY2UucHJlV29ya1JhdGluZyAhPSAwIE9SIHVzZXJzX2F0dGVuZGFuY2UuaW5DbGFzc0luc3RydWN0aW9uUmF0aW5nICE9IDAgT1IgdXNlcnNfYXR0ZW5kYW5jZS5mZWVkYmFjayAhPSAnJwpHUk9VUCBCWSB1c2Vycy5faWQsIHVzZXJzX2F0dGVuZGFuY2UuZGF0ZQpPUkRFUiBCWSB1c2Vyc19hdHRlbmRhbmNlLmRhdGUgZGVzYzs=) that give below 3 stars or leave concerning comments.
 
 ### Monitor Grades and Attendance
 
-- [Campus Manager](https://campus.austincodingacademy.com) is a the single most important tool you have to organize and maintain student progress. In Campus Manager we can see a student's entire portfolio including: the picture, contact info, classes they've taken and are attending, the attendance rate, grade, links to their assignments, and payment history.
+- [Campus Manager](https://campus.austincodingacademy.com) is a the single most important tool you have to organize and maintain student progress. In Campus Manager we can see a student's entire portfolio including: their picture, contact info, classes they've taken and are attending, their attendance rate, grades, links to their assignments, and payment history.
 
     * Twice a week you should review student attendance and grades.
-    * Use this time to take notes of students and of Instructor grading habits (the students will do better with faster grading).
+    * Use this time to take notes of students and of Instructor grading habits (the students will do better with faster grading) in an email. This leads us to documenting student data.
 
 ******
 
@@ -62,6 +64,8 @@ There are many tools and procedures we use to ensure quality and efficiency whil
     * The Campus Director will make notes of each student whenever their is a conversation about financial matters, struggles in class, family or personal hardships, successes in class or when a student realizes they enjoy a certain section of the course.
     * The Director of Job Placement will use all of these notes to connect students to the right employers when they see a potential fit. This is the reason notes on students are incredibly important!!
 
+Each time you learn a piece of information on the student or you've had an interaction with them through text, email, rocketChat, or in-person regarding their success, struggles, matriculation, or financial matters, record it in hubSpot. The reason we need to do this is because we will keep up with many students throughout our time and having notes help to jog the memory when it comes to making decisions on placing them or bringing them back in to the course if they had to drop out previously.
+
 ******
 
 ## How Do We Follow Up With Data?
@@ -69,7 +73,7 @@ There are many tools and procedures we use to ensure quality and efficiency whil
 
 ### RocketChat
 
-- Remember, rocketChat is our community bulletin board. Use Direct Messages(DMs) to help student find a tutor, work through a small problem, or ask them about attendance or missing assignments.
+- Remember, rocketChat is our community bulletin board and chat room. Use Direct Messages(DMs) to help student find a tutor, work through a small problem, or ask them about attendance or missing assignments.
 
 ### Text Message
 
