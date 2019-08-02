@@ -13,9 +13,9 @@
 
 * Class Support
     * [Process](steps/classSupportProcess.md)
-        * [Beginning](steps/classBeginning.md)
-        * [Middle](steps/classMiddle.md)
-        * [End](steps/classEnd.md)
+        * [Beginning - Wk 0 - 2](steps/classBeginning.md)
+        * [Middle - Wk 3 - 6](steps/classMiddle.md)
+        * [End - Wk 7 - Post Class](steps/classEnd.md)
 
 * [Facility Information](steps/facilityInformation.md)
 * [Tools and Resources](steps/toolsAndResources.md)
