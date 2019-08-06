@@ -1,16 +1,16 @@
 {% include "../includes/header.md" %}
 
-# Class Support: The Lifecycle and Nature of a Class
+# Course Support: The Life Cycle and Nature of a Course
 
-As with anything, each of the classes you support have a cycle: the beginning, middle, and end of each class. These phases come with their own tasks and procedures that help guide the class as a whole, each student, and the Instructor toward success. Let's take some time to explore these phases and their needs.
+As with anything, each of the course you support have a cycle: the beginning, middle, and end of each course. These phases come with their own tasks and procedures that help guide the course as a whole, each student, and the Instructor toward success. Let's take some time to explore these phases and their needs.
 
-To be clear, we are talking about the entire cycle of the class not just a single day. In the following pages we'll talk about the steps to be taken during these three stages but let's take a moment to discuss class structure of each individual day.
+To be clear, we are talking about the entire cycle of the course not just a single class day. In the following pages we'll talk about the steps to be taken during these three stages but let's take a moment NOW to discuss class structure of each individual class day.
 
 ## Daily Class Structure
 
 ### Part-time Learning Using a Flipped Classroom Approach
 
-Because classes only meet twice a week we don't have time to waste on lectures. Students must be working on projects and practicing these skills with the guidance of an professional developer as their safety net when they stumble. To do this we use the [Flipped Classroom Approach](https://www.heacademy.ac.uk/knowledge-hub/flipped-learning-0). Learning in this different style can be a hard adjustment for some. It's your job to help the Instructor and students to make the transition and get comfortable with this method and get total buy in so all are headed toward success. Read through and learn what adjustments you need to make in your mind about a Flipped Classroom in the [article](https://www.heacademy.ac.uk/knowledge-hub/flipped-learning-0) above.
+Because classes only meet twice a week we don't have time to waste on lectures. Students must be working on projects and practicing these skills with the guidance of an professional developer as their safety net when they stumble. To do this we use the [Flipped Classroom Approach](https://www.youtube.com/embed/BCIxikOq73Q). Learning in this different style can be a hard adjustment for some. It's your job to help the Instructor and students to make the transition and get comfortable with this method and get total buy in so all are headed toward success. Read through and learn what adjustments you need to make in your mind about a Flipped Classroom in this [article](https://www.heacademy.ac.uk/knowledge-hub/flipped-learning-0).
 
 ### What the Students and Instructors Need to Know about Learning in a Flipped Classroom
 
@@ -22,9 +22,9 @@ To be successful in a part-time program students must study the pre-homework ass
 
 This approach may feel difficult at first but this methodology has been proven effective and is well suited for both adult learners and part-time education. Check out the video below for a clearer understanding.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BCIxikOq73Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iQWvc6qhTds" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### What Daily In-Class Structure Looks Like
+### What In-Class Structure Looks Like on the Daily
 
 Class structure is important to keep students engaged, confident, trusting in the class, and most importantly, learning! By following class structure the Instructor can confidently approach class with an agenda and plan of action that allows the students time to work on their projects and learn by practice rather than by meandering on their own outside of class.
 
@@ -47,6 +47,11 @@ To reiterate, following the structure of class has multiple important purposes:
 1. **Project Time** *(90 min)*: With a mandatory start time of 7:30 p.m. this section is the most important time of class. This is the section of class where students get to work together on the project of the day while the Instructor floats the classroom making themselves available to students as they have questions and errors.
 1. **Push Yourself Further**: Provided at the end of each project these are suggestions for students to attempt when they've completed the main task. 
 1. **Blog Interview Questions** *(5 min)*: Given to the students to be completed after every other class, these questions are meant to prepare students for interviewing for their first developer positions by demanding them to explain low-level concepts. The students will have to do extra research on their own to answer these questions but should use the last 5 mins of class to probe the instructor for direction and clarity. 
+1. **Attendance Recording**: At the end of **every** class, the Instructor will share with the students the daily attendance code with the students who will then rate the Pre-Class Homework and In-Class Instruction, give optional comments and submit the daily code to be counted present for the day. 
+
+## Summary
+ 
+Every class will be structured this way. In your Instructor Observations you'll be able to follow along with the class formula and find time markers in class to help the Instructor manage the class more effectively. 
 
 <!-- @TODO Create and add quiz link @KATIE @DANIEL -->
 ## [Quiz Time](google.com)
