@@ -32,7 +32,7 @@ Depending on which term level the class, be it 101, 200, 300, 400, or 500, each 
 
 Before the class begins you'll need to complete a few steps to guarantee students get certain information and guidance to start off on the right foot.
 
-### Pre-First Day Checklist    
+### Week 0 (Pre-First Day) Checklist    
   <!-- @TODO add link to video for adding members to a channel -->    
 1. Create RocketChat Channel + Add Members
 1. Pre-planning with Instructor
@@ -94,6 +94,7 @@ On the first day of class you will be responsible for setting the tone fo the co
 Depending on your campus, students may need key cards or fobs to enter the building. If this is the case it is important to do these few steps. 
 
 1. Assign key cards/fobs (if needed). Be sure to create a spreadsheet that matches student names to card numbers.
+1. Write the students' names on a sticky note and attach it to the card or fob.
 1. Share the [User Agreement](https://docs.google.com/forms/d/e/1FAIpQLSdaGwT-9UU5wf5qowFis2j75L75GWIQMFHOSmpl3B1DzwO1qg/viewform) in their rocketChat channel.
 1. Require all students to complete the User Agreement form before the receive their key.
 
@@ -125,49 +126,94 @@ Be sure to share with all of your students the following information:
 
 As the first day of each class approaches, your students will have lots of question. They will be unsure of pre-course work or afraid they shouldn't continue. The best strategy you can use here is to answer **quickly**. Regularly check your email and rocketChat to field student and instructor questions.
 
-#### Schedule a Tutor for the First Days
+#### Wk 0: Schedule a Tutor for the First Days
 
 While the tutors are usually requested for one-on-one coaching of students and holding study sessions, it's best to have an extra set of hands and eyes to guide the first two days of class off to a smooth sail. Be sure to book a tutor from the website and let them know when and where you'll need them. 
 
 ******
+******
 
 ## Week 1
 
+## Week 1 Checklist
+
+1. Set up room
+1. Greet Students at Door
+1. Prepare key card/fob to be assigned
+1. Host icebreakers and orientation
+1. Send end of Week Check-In Email
+
+#### Wk 1: Set up room
+
+Be sure to arrive well before students get there. This is to say be at the room at least an hour before class begins to ensure you can 
+  1. unlock the door
+  1. connect to wifi
+  1. setup and connect to the monitor(s)/projector(s)
+  1. meet with tutor and instructor and discuss greeting students and course of first day
+  1. setup the classroom in pod style.
+
+In a pod style classroom tables are set up to sit 4-6 students facing each other but able to easily turn toward the instructor. This style generates a more collaborative feel and encourages students to talk, get to know each other, and share ideas later on in the class. Be sure not to skip this step. 
+
 #### Wk 1: Greet Students at Door
 
-<!-- @TODO @CLAYTON -->
-signage
-planning
+Depending on the location of your classroom you may need to post signs with your campus's branding and directions. Be sure to scope out the location well before you need to post the signs.
 
-#### Assign Keycards and Parking Vouchers
-<!-- @TODO @CLAYTON fill this section out -->
-Recording numbers with names
-Send the keycard user agreement to students
-Informing them of the need for this.
+Coordinate with the tutor and instructor to make sure every student is greeted by each of you. Things you should talk to them about upon your introduction:
+  1. Are you ready to code?
+  1. What do you do for work now?
+  1. Where are you from?
+  1. What do you like to do for fun?
 
-#### Orientation
-<!-- @TODO @CLAYTON fill this section out -->
- courage to show up, trajectory, goal vs process, professional communication
+When you've had a chance to talk to them be sure to invite them to sit anywhere they like in class and ask them to get a few programs up on their computer:
+  1. Chrome with the following tabs opened:
+    * RocketChat
+    * Campus Manager
+    * The course textbook
+  1. VS Code
 
-#### End of Week Check-In Email
+#### Wk 1: Assign Key Cards and Parking Vouchers
+
+Assigning key cards need not be a tedious task but all students must get one and complete the user agreement form. After you've shared with the students the User Agreement Form ask them to complete all of the fields except for the card number. Then you and the tutor and Instructor can walk around the class distributing cards to the students. It's important that you tell each student their card number and watch them submit the form before you give them the card. 
+
+#### Wk 1: Orientation
+
+If you've prepared your icebreakers and orientation slide deck, you got this!!
+
+#### Wk 1: End of Week Check-In Email
+
+At the end of the first week of each course student should receive an email of encouragement and support. Be sure to use your own words but use this [1st Week Follow-up Email Example](https://docs.google.com/document/d/1s0_YbkP9lVM5uqx56tojZPxme5qTUOPiZG1I8ue6KLw/edit?usp=sharing) to guide you.
+
 
 ******
 
 ## Week 2
 
-#### First In-Class Instructor Observation
+#### Wk 2: First In-Class Instructor Observation
 
-<!-- @TODO @KATIE @DANIEL -->
-add instructions and example emails and folder for finding information.
+<!-- @TODO @DANIEL -->
+add instructions,
+an example email 
+and folder for finding information.
 
-#### Monitor Grades and Attendances
+#### Wk 2: Monitor Grades and Attendances
 
-<!--  Quiz TIME?? -->
-<!-- @TODO @KATIE @DANIEL -->
+Each week from now until the end of the course the Campus Director will need to check-in on student morale and progress. While talking to students one-on-one in class is the most effective way to measure their morale and personal progress let's discuss a couple of tangible metrics to use in conjunctions with weekly face-to-face interactions.
 
-<!-- Does a test need to go here? If we have all of these tests will it be hard to keep up with each one and assess their understanding? At the same time, if we have only one it will be harder for the candidate to remember all of the information they covered.... Maybe we have a long form open book test at the end we use to assess their understanding but have shorter quizzes throughout to reinforce the concepts. If so we should email them their responses and allow them to see the correct answers. -->
+1. **Attendance**
+    Students that are not showing up to class are typically falling behind in assignments, learning, and motivations. It is SO IMPORTANT to catch this early! We must be vigilant about the attendance of each of our students if we intend for each of them to be successful. You can do this through Campus Manager by going to the class and checking in on attendance records of the whole class or each student. Remember to document your interactions with students in hubSpot.
+1. **Assignment Completion**
+    Another indicator of student progress is the completion of assignment. Our students have so much going on in their lives that the will sometimes decide not to complete and assignment or turn it in late. It's so damaging to the student's focus and stamina if they let assignments pile up. They start feeling behind and overwhelmed. To help guide them through the course successfully, be sure to reach out to them any time you see a missing assignment. Offer to help or find a tutor that can get them moving along. Remind them there is no shame in getting help. The most important part is that they continue learning and building.Remember to document your interactions with students in hubSpot.
 
-<!-- @TODO Create and add quiz link @KATIE @DANIEL -->
+******
+******
+
+<!-- @TODO @DANIEL -->
+
+<!-- QUESTION: Does a test need to go here? If we have all of these tests will it be hard to keep up with each one and assess their understanding? At the same time, if we have only one it will be harder for the candidate to remember all of the information they covered.... Maybe we have a long form open book test at the end we use to assess their understanding but have shorter quizzes throughout to reinforce the concepts. If so we should email them their responses and allow them to see the correct answers. -->
+
+<!-- RESPONSE: Yes, every module should have a 10 question test. The answer should be immediately available to them as well as emailed to them. The final exam should include questions from all of the modules but also a few open-ended prompts. The candidates should be graded on their final exam. -->
+
+<!-- @TODO Create and add quiz link @DANIEL -->
 ## [Quiz Time](google.com)
 
 **Move on to the [Middle of Class](classMiddle.md)**

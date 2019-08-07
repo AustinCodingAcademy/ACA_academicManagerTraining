@@ -4,6 +4,8 @@
 
 There are many tools and procedures we use to ensure quality and efficiency while supporting our students. Remember, each of our students are like family, they are important, they're unique, and they're trusting us with their time, money, and mind. Please take some time to review these important techniques to connect, reach out, follow up, and support students. These techniques are broken up into three different sections: **Retrieve Data**, **Document Data**, and **Follow Up With Data**
 
+*****
+
 ## How Do We Retrieve Data?
 
 ### Attend Class
@@ -38,7 +40,7 @@ There are many tools and procedures we use to ensure quality and efficiency whil
     * Use emojis and gifs to encourage and applaud student engagement.
     * Share with students resources they may find useful in their current tasks.
 
-### Read Every Week
+### Weekly Reading
 
 - Every Friday morning you and your instructors will be sent a Weekly Feedback Reports which will include all the students rating and comments for the past two class days. These are valuable insights on how the students understand the textbook and in-class instruction.
 
@@ -51,7 +53,8 @@ There are many tools and procedures we use to ensure quality and efficiency whil
     * Twice a week you should review student attendance and grades.
     * Use this time to take notes of students and of Instructor grading habits (the students will do better with faster grading) in an email. This leads us to documenting student data.
 
-******
+*****
+*****
 
 ## How Do We Document Data?
 
@@ -66,9 +69,11 @@ There are many tools and procedures we use to ensure quality and efficiency whil
 
 Each time you learn a piece of information on the student or you've had an interaction with them through text, email, rocketChat, or in-person regarding their success, struggles, matriculation, or financial matters, record it in hubSpot. The reason we need to do this is because we will keep up with many students throughout our time and having notes help to jog the memory when it comes to making decisions on placing them or bringing them back in to the course if they had to drop out previously.
 
-******
+*****
+*****
 
 ## How Do We Follow Up With Data?
+
 *(In order of preference.)*
 
 ### RocketChat
@@ -107,7 +112,9 @@ Each time you learn a piece of information on the student or you've had an inter
     * You'll do well to invite them to Hackathons: A great way to build community and get students excited about coding by taking part in a real-life coding challenge with other developers.
     * Get their butts to Happy Hours: These events are important for marketing to new students but also helps to foster a community among our current students and graduates.
     * Implore the students attend Tutoring Weekends: This weekly event builds the school's community and collaboration by bringing students together from different classes to work on code with the help of tutors.
-    * Educate them on the importance of Photoshoots: Provided on-occassion, we offer free headshots for students and an opportunity for ACA to share students stories with potential new students.
+    * Educate them on the importance of Photoshoots: Provided on-occasion, we offer free headshots for students and an opportunity for ACA to share students stories with potential new students.
+
+*****
 
 ## Quiz Time
 

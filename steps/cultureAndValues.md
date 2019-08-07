@@ -10,6 +10,8 @@ Checkout the story from the eyes of it's co-founders, Luke and Chris.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RvlytBUgpa4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*****
+
 ## Why We Do It?
 
 Teaching in itself it purposeful work. But what we teach gives our student purpose and meaning in their lives. Every member of our community from the students, instructors, tutor, Campus Director, and each team member in the office should feel part of a community that is bigger than they are. Every person should feel meaningful purpose in their work. Everyday we use our skills and knowledge to help grow other people around us as well as ourselves. We are cultivating skills and minds to be better, stronger, and more employable. This is our purpose at ACA, to grow, become better, and to offer to our community an affordable option to get into a better paying and more valuable career that will offer to our community members the chance to provide a better life for their families.
@@ -43,7 +45,7 @@ ACA hires full-time developers to be part-time instructors. This model allows us
 
 In the classroom, we foster community. Starting with the Campus Director and Instructor, we engage with students as they walk in with a simple, "Hey, how you doing?" We connect with each student and offer ice-breakers that spark connections and lead our students to feel comfortable with each other and confident to ask questions and try and fail together. Each day is just one more day to bring student's closer to their dream job. One more day to bring them closer to understanding. One more day closer to giving their families more vacation time, hobby time, picnic, and camping. And one more day to bring them personal satisfaction and self-worth.
 
-## What can the Campus Director do to foster community in the classroom
+## What can the Campus Director do to Foster Community in the Classroom
 
 As the Campus Director, you should provide your students with support and compassion for the extra work that must be put in now while they're working full-time to pay their bills, raise their children, and pay tuition. Each of our students will need your encouragement as they are faced with new challenges, runtime errors or failure to build. Your smile and positivity in class will garner their respect and provide to them the support they'll need to win!
 
@@ -55,9 +57,13 @@ Along with building community amongst the student you will also work with instru
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uSNUtDv8CiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*****
+
 ## Quiz Time
 
 Before moving on: Take the [Culture and Values Quiz](https://forms.gle/J1jQAfSNAdtvycFd8)
+
+*****
 
 ## Go to [Student Support: Building Relationships](../steps/studentSupportBuildingRelationships.md)
 
