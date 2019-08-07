@@ -12,6 +12,7 @@
 1. [Example 101 Welcome Email](https://docs.google.com/document/d/1xnKxNggyqmkNjFdsc0GRK_Cv52TSeXYArpJofbSqkA0/edit?usp=sharing)
 1. [Example 211 Welcome Email](https://docs.google.com/document/d/174NK3Kxh_bVvnl7gHIbpAgt6ffuiDcQle_RRleGrToQ/edit?usp=sharing)
 1. [End Of Course Survey](https://drive.google.com/open?id=1d99ZNONx6Y2XC8DCv_yisiwDUXL1CM5EuV4md1OVyv8)
+1. [Graduation Hackathon Email](https://docs.google.com/document/d/1qX7FPEhWbElrS9jwEle-IPUWzjNTZRfI7J9e8Ck0KK0/edit?usp=sharing)
 
 ## Example Pre-Class Welcome/Reminder Emails
 
@@ -27,6 +28,11 @@
 
 1. [Next course starts](https://docs.google.com/document/d/19XMflBCjNivL69KqOEiNGGZw-WwlrHwDpgKUB5K6f6k/edit?usp=sharing)
 * ...
+
+## Example Human Resource Documents
+
+1. [Tutor Offer Letter](https://docs.google.com/document/d/14cbPgh09Z0iiEB2ieiYivY4AYZkbWBh2xeCYKyIjWSY/edit?usp=sharing)
+1. 
 
 ## Door and Key Codes
 

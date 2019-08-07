@@ -29,7 +29,3 @@ Offer a link to the textbook of each track.
 ******
 
 {% include "../includes/footer.md" %}
-
-<!-- {% include "../includes/header.md" %}
-
-{% include "../includes/footer.md" %} -->

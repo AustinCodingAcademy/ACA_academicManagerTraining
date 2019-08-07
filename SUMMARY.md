@@ -17,6 +17,12 @@
         * [Middle - Wk 3 - 6](steps/classMiddle.md)
         * [End - Wk 7 - Post Class](steps/classEnd.md)
 
+* Hiring and On-boarding
+    * [Hiring Tutors](steps/hiringTutorProcess.md)
+    * [On-boarding Tutors](steps/onboardingTutorProcess.md)
+    * [Hiring Instructors](steps/hiringInstructorProcess.md)
+    * [On-boarding Instructors](steps/onboardingInstructorProcess.md)
+
 * [Facility Information](steps/facilityInformation.md)
 * [Tools and Resources](steps/toolsAndResources.md)
 * [Human Resources](steps/humanResources.md)
