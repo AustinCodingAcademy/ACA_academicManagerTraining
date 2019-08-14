@@ -21,10 +21,10 @@ There are many tools and procedures we use to ensure quality and efficiency whil
 
 - Instructors are on the frontline with our students. They are regularly grading the students' assignments, hearing the questions they ask, and reading their blogs. The Instructor is in the know when it comes to the status of a student.
 
-    * Regularly communicate with instructors to gain better insight into classroom successes as well as areas for improvement.
+    * Regularly communicate with Instructors to gain better insight into classroom successes as well as areas for improvement.
     * Ask Instructors how you could help them engage students better.
     * Offer suggestions for more effective instructional methods.
-    * When checking on student attendance and grades, note your concerns in an email to send to the instructor as a follow-up on.
+    * When checking on student attendance and grades, note your concerns in an email to send to the instructor as a follow-up.
 
 ### Talk with your Tutors
 
@@ -34,7 +34,7 @@ There are many tools and procedures we use to ensure quality and efficiency whil
 
 ### Follow RocketChat
 
-- [RocketChat](chat.austincodingacademy.com) is a the community chat platform. Instructors and students post questions, answers, and support material in their class's channel everyday. This is a prime place for you to passively monitor what students are thinking about, struggling with, and getting excited about.
+- [RocketChat](chat.austincodingacademy.com) is the community chat platform. Instructors and students post questions, answers, and support material in their class's channel every day. This is a prime place for you to passively monitor what students are thinking about, struggling with, and getting excited about.
 
     * Regularly monitor each of your classes' channels. Make this a daily habit.
     * Use emojis and gifs to encourage and applaud student engagement.
@@ -42,16 +42,16 @@ There are many tools and procedures we use to ensure quality and efficiency whil
 
 ### Weekly Reading
 
-- Every Friday morning you and your instructors will be sent a Weekly Feedback Reports which will include all the students rating and comments for the past two class days. These are valuable insights on how the students understand the textbook and in-class instruction.
+- Every Friday morning you and your instructors will be sent Weekly Feedback Reports, which will include all the student ratings and comments for the past two class days. These are valuable insights on how the students understand the textbook and in-class instruction.
 
     * Be sure to read the [Weekly Feedback Reports](https://campus.austincodingacademy.com/#report/U0VMRUNUCiAgJ2FjdGl2ZScgYXMgc3RhdHVzLAogIHVzZXJzX2F0dGVuZGFuY2UuZGF0ZSBhcyBkYXRlLAogIHRlcm1zLm5hbWUgfHwgJy0nIHx8IGNvdXJzZXMubmFtZSBhcyBjb3Vyc2UsCiAgbG9jYXRpb25zLm5hbWUgYXMgbG9jYXRpb24sCiAgR1JPVVBfQ09OQ0FUKGluc3RydWN0b3JzLmZpcnN0X25hbWUgfHwgJyAnIHx8IGluc3RydWN0b3JzLmxhc3RfbmFtZSwgIiwgIikgYXMgaW5zdHJ1Y3RvciwKICBjYXNlIGNhc3QgKHN0cmZ0aW1lKCcldycsIHVzZXJzX2F0dGVuZGFuY2UuZGF0ZSkgYXMgaW50ZWdlcikKCXdoZW4gMCB0aGVuICdTdW5kYXknCgl3aGVuIDEgdGhlbiAnTW9uZGF5JwoJd2hlbiAyIHRoZW4gJ1R1ZXNkYXknCgl3aGVuIDMgdGhlbiAnV2VkbmVzZGF5JwoJd2hlbiA0IHRoZW4gJ1RodXJzZGF5JwoJd2hlbiA1IHRoZW4gJ0ZyaWRheScKCWVsc2UgJ1NhdHVyZGF5JwogIGVuZCBhcyBkYXksCiAgdXNlcnNfYXR0ZW5kYW5jZS5wcmVXb3JrUmF0aW5nLAogIHVzZXJzX2F0dGVuZGFuY2UuaW5DbGFzc0luc3RydWN0aW9uUmF0aW5nLAogIHVzZXJzX2F0dGVuZGFuY2UuZmVlZGJhY2ssCiAgdXNlcnNfYXR0ZW5kYW5jZS5kYXRlCkZST00gdXNlcnNfYXR0ZW5kYW5jZQpKT0lOIHVzZXJzIE9OIHVzZXJzLnlvc3FsX2lkID0gdXNlcnNfYXR0ZW5kYW5jZS51c2Vyc195b3NxbF9pZApqb2luIGNvdXJzZXMgb24gY291cnNlcy5faWQgPSB1c2Vyc19hdHRlbmRhbmNlLmNvdXJzZUlkCmpvaW4gY291cnNlc19pbnN0cnVjdG9ycyBvbiBjb3Vyc2VzLnlvc3FsX2lkID0gY291cnNlc19pbnN0cnVjdG9ycy5jb3Vyc2VzX3lvc3FsX2lkCmxlZnQgam9pbiB1c2VycyBhcyBpbnN0cnVjdG9ycyBvbiBpbnN0cnVjdG9ycy5faWQgPSBjb3Vyc2VzX2luc3RydWN0b3JzLmluc3RydWN0b3JzCmpvaW4gdGVybXMgb24gdGVybXMuX2lkID0gY291cnNlcy50ZXJtCmpvaW4gbG9jYXRpb25zIG9uIGNvdXJzZXMubG9jYXRpb24gPSBsb2NhdGlvbnMuX2lkCkFORCB1c2Vyc19hdHRlbmRhbmNlLmRhdGUgYmV0d2VlbiBkYXRlKCdub3cnLCAnLTcgZGF5cycpIEFORCBkYXRlKCdub3cnKQpBTkQgaW5zdHJ1Y3RvcnMudXNlcm5hbWUgPSAnanVhbi5qLnJvZHJpZ3VlejJAZ21haWwuY29tJwpHUk9VUCBCWSB1c2Vycy5faWQsIHVzZXJzX2F0dGVuZGFuY2UuZGF0ZQpPUkRFUiBCWSB1c2Vyc19hdHRlbmRhbmNlLmRhdGUgZGVzYzs=) each week and [follow up with students](https://campus.austincodingacademy.com/#report/U0VMRUNUCiAgdXNlcnMuZmlyc3RfbmFtZSB8fCAiICIgfHwgdXNlcnMubGFzdF9uYW1lIGFzIG5hbWUsCiAgdXNlcnMudXNlcm5hbWUgYXMgZW1haWwsCiAgdXNlcnMucGhvbmUsCiAgY291cnNlcy5uYW1lIGFzIGNvdXJzZSwKICB0ZXJtcy5uYW1lIGFzIHRlcm0sCiAgbG9jYXRpb25zLm5hbWUgYXMgbG9jYXRpb24sCiAgR1JPVVBfQ09OQ0FUKGluc3RydWN0b3JzLmZpcnN0X25hbWUgfHwgJyAnIHx8IGluc3RydWN0b3JzLmxhc3RfbmFtZSwgIiwgIikgYXMgaW5zdHJ1Y3RvciwKICBjYXNlIGNhc3QgKHN0cmZ0aW1lKCcldycsIHVzZXJzX2F0dGVuZGFuY2UuZGF0ZSkgYXMgaW50ZWdlcikKCXdoZW4gMCB0aGVuICdTdW5kYXknCgl3aGVuIDEgdGhlbiAnTW9uZGF5JwoJd2hlbiAyIHRoZW4gJ1R1ZXNkYXknCgl3aGVuIDMgdGhlbiAnV2VkbmVzZGF5JwoJd2hlbiA0IHRoZW4gJ1RodXJzZGF5JwoJd2hlbiA1IHRoZW4gJ0ZyaWRheScKCWVsc2UgJ1NhdHVyZGF5JwogIGVuZCBhcyBkYXksCiAgdXNlcnNfYXR0ZW5kYW5jZS5wcmVXb3JrUmF0aW5nLAogIHVzZXJzX2F0dGVuZGFuY2UuaW5DbGFzc0luc3RydWN0aW9uUmF0aW5nLAogIHVzZXJzX2F0dGVuZGFuY2UuZmVlZGJhY2ssCiAgdXNlcnNfYXR0ZW5kYW5jZS5kYXRlCiAgCkZST00gdXNlcnNfYXR0ZW5kYW5jZQpKT0lOIHVzZXJzIE9OIHVzZXJzLnlvc3FsX2lkID0gdXNlcnNfYXR0ZW5kYW5jZS51c2Vyc195b3NxbF9pZApqb2luIGNvdXJzZXNfcmVnaXN0cmF0aW9ucyBvbiBjb3Vyc2VzX3JlZ2lzdHJhdGlvbnMucmVnaXN0cmF0aW9ucyA9IHVzZXJzLl9pZApqb2luIGNvdXJzZXMgb24gY291cnNlcy55b3NxbF9pZCA9IGNvdXJzZXNfcmVnaXN0cmF0aW9ucy5jb3Vyc2VzX3lvc3FsX2lkCmpvaW4gY291cnNlc19pbnN0cnVjdG9ycyBvbiBjb3Vyc2VzLnlvc3FsX2lkID0gY291cnNlc19pbnN0cnVjdG9ycy5jb3Vyc2VzX3lvc3FsX2lkCmxlZnQgam9pbiB1c2VycyBhcyBpbnN0cnVjdG9ycyBvbiBpbnN0cnVjdG9ycy5faWQgPSBjb3Vyc2VzX2luc3RydWN0b3JzLmluc3RydWN0b3JzCmpvaW4gdGVybXMgb24gdGVybXMuX2lkID0gY291cnNlcy50ZXJtCmpvaW4gbG9jYXRpb25zIG9uIGNvdXJzZXMubG9jYXRpb24gPSBsb2NhdGlvbnMuX2lkCkFORCBkYXRlKCdub3cnKSBiZXR3ZWVuIHRlcm1zLnN0YXJ0X2RhdGUgQU5EIHRlcm1zLmVuZF9kYXRlCldIRVJFIHVzZXJzX2F0dGVuZGFuY2UucHJlV29ya1JhdGluZyAhPSAwIE9SIHVzZXJzX2F0dGVuZGFuY2UuaW5DbGFzc0luc3RydWN0aW9uUmF0aW5nICE9IDAgT1IgdXNlcnNfYXR0ZW5kYW5jZS5mZWVkYmFjayAhPSAnJwpHUk9VUCBCWSB1c2Vycy5faWQsIHVzZXJzX2F0dGVuZGFuY2UuZGF0ZQpPUkRFUiBCWSB1c2Vyc19hdHRlbmRhbmNlLmRhdGUgZGVzYzs=) that give below 3 stars or leave concerning comments.
 
 ### Monitor Grades and Attendance
 
-- [Campus Manager](https://campus.austincodingacademy.com) is a the single most important tool you have to organize and maintain student progress. In Campus Manager we can see a student's entire portfolio including: their picture, contact info, classes they've taken and are attending, their attendance rate, grades, links to their assignments, and payment history.
+- [Campus Manager](https://campus.austincodingacademy.com) is the single most important tool you have to organize and maintain student progress. In Campus Manager, we can see a student's entire portfolio including: their picture, contact info, classes they've taken and are attending, their attendance rate, grades, links to their assignments, and payment history.
 
     * Twice a week you should review student attendance and grades.
-    * Use this time to take notes of students and of Instructor grading habits (the students will do better with faster grading) in an email. This leads us to documenting student data.
+    * Use this time to take notes of students and of Instructor grading habits (the students will do better with faster grading) in an email. This helps us to document student data.
 
 *****
 *****
@@ -67,7 +67,7 @@ There are many tools and procedures we use to ensure quality and efficiency whil
     * The Campus Director will make notes of each student whenever their is a conversation about financial matters, struggles in class, family or personal hardships, successes in class or when a student realizes they enjoy a certain section of the course.
     * The Director of Job Placement will use all of these notes to connect students to the right employers when they see a potential fit. This is the reason notes on students are incredibly important!!
 
-Each time you learn a piece of information on the student or you've had an interaction with them through text, email, rocketChat, or in-person regarding their success, struggles, matriculation, or financial matters, record it in hubSpot. The reason we need to do this is because we will keep up with many students throughout our time and having notes help to jog the memory when it comes to making decisions on placing them or bringing them back in to the course if they had to drop out previously.
+Each time you learn a piece of information on the student or you've had an interaction with them through text, email, RocketChat, or in-person regarding their success, struggles, matriculation, or financial matters, record it in HubSpot. The reason we need to do this is because we will keep up with many students throughout our time and having notes help to jog the memory when it comes to making decisions on placing them or bringing them back in to the course if they had to drop out previously.
 
 *****
 *****
@@ -78,16 +78,16 @@ Each time you learn a piece of information on the student or you've had an inter
 
 ### RocketChat
 
-- Remember, rocketChat is our community bulletin board and chat room. Use Direct Messages(DMs) to help student find a tutor, work through a small problem, or ask them about attendance or missing assignments.
+- Remember, RocketChat is our community bulletin board and chat room. Use Direct Messages(DMs) to help the student find a tutor, work through a small problem, or ask them about attendance or missing assignments.
 
 ### Text Message
 
-- Text messages and phone calls are a good starting point for reaching out to students that may not be as comfortable talking in person or non-responsive via email or rocketChat. Let's face the facts, we live in a text message driven society. Everyone texts, everyone looks at their phones and everyone communicates and hides behind texts.
+- Text messages and phone calls are a good starting point for reaching out to students that may not be as comfortable talking in person or non-responsive via email or RocketChat. Let's face the facts, we live in a text message driven society. Everyone texts, everyone looks at their phones and everyone communicates and hides behind texts.
 
     * Use texting to follow-up with a student on a conversation you had in-person.
     * Text them to remind them about events like happy hours and hackathons, if you feel they may find a way to back out.
     * Send messages to student that may have had to drop out or wait for the next cohort just to keep in touch.
-    * You can even use texting to reach out to student who leave concerning comments.
+    * You can even use texting to reach out to students who leave concerning comments.
 
 ### In-Person Conversation
 
@@ -98,7 +98,7 @@ Each time you learn a piece of information on the student or you've had an inter
 
 ### Email
 
-- Email is a great way to reach out to students, so long as you've properly introduce them to email etiquette and email expectations, i.e. reading and responding within one day, using reply all or not, adding a signature. Common emails you might send:
+- Email is a great way to reach out to students, so long as you've properly introduced them to email etiquette and email expectations, i.e. reading and responding within one day, using reply all or not, adding a signature, etc. Common emails you might send:
 
     * [Welcome to the first day](https://docs.google.com/document/d/1HGsK6I19jiZsTUq-qlJ_c5PHR1W40OL4v8Q2hk8cAvo/edit?usp=sharing) of class!
     * [Matriculation Email](https://docs.google.com/document/d/1DptVyz4yTSNRgY5xzTsiLjgxMQRlztTkRdWdETomUGE/edit?usp=sharing) to help students register for their next class.
@@ -107,7 +107,7 @@ Each time you learn a piece of information on the student or you've had an inter
 
 ### Class Announcements
 
-- You are the face to the Coding Academy! You are the supporter and knower of all information for students. It is your prerogative to engage the students at the top of class to give them critical information, reprimand them for not do pre-homework, rally their enthusiasm, and encourage them to join happy hours, hackathons, and job faires.
+- In class, you are the face of Austin Coding Academy! You are the supporter and knower of all information for students. It is your prerogative to engage the students at the top of class to give them critical information, reprimand them for not doing pre-homework, rally their enthusiasm, and encourage them to join happy hours, hackathons, and job faires.
     * Be prepared to give them pertinent classroom information like Wifi, parking info, keycards, textbook notes, holidays, schedule changes/cancellations, specific class updates, and meet recording links.
     * You'll do well to invite them to Hackathons: A great way to build community and get students excited about coding by taking part in a real-life coding challenge with other developers.
     * Get their butts to Happy Hours: These events are important for marketing to new students but also helps to foster a community among our current students and graduates.

@@ -8,7 +8,7 @@ To successfully communicate and establish high-quality relationships with studen
 
 ## Meet Students Where They Are
 
-You will be interacting with students at the end of their workday or after dropping their kids off; sometime after a bad or long day, others in depressed days. Each student will come to you with their own emotional whirlwinds and agendas. The Campus Director shows up wherever and whenever the student is with a smile and a high five. Greet the student every time you see them, respond to their messages and emails with an understanding in your heart that they are struggling through something and you are there to listen and guide.
+You will be interacting with students at the end of their workday or after dropping their kids off; sometimes after a bad or depressing day. Each student will come to you with their own emotional whirlwinds and agendas. The Campus Director shows up wherever and whenever the student is with a smile and a high five. Greet the student every time you see them, respond to their messages and emails with an understanding in your heart that they are struggling through something and you are there to listen and guide.
 
 ## Encourage Your Students to Improve
 
@@ -20,7 +20,7 @@ Find moments to share stories to connect with students to gain their trust and b
 
 ## Listen To Their Stories
 
-Everyone wants to be heard. Just as each student is in a different place when they come to us, each student will be in their own place while learning. Take the time to listen to each student. You should know what their current job, husband/wife/single/kids and what they like to do on their free time. By taking the time with each student in this way, you will create a genuine connection and know how best to serve them when they do struggle.
+Everyone wants to be heard. Just as each student is in a different place when they come to us, each student will be in their own place while learning. Take the time to listen to each student. You should know their current job, if they are single or have a husband, wife, or kids and what they like to do on their free time. By taking the time with each student in this way, you will create a genuine connection and know how best to serve them when they do struggle.
 
 ## Don't Force Interactions & Empathy
 
